@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="HelloAdamHTMLCSS">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloAdamHTMLCSS</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HelloAdamHTMLCSS" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" />
+      </element>
+    </root>
+  </artifact>
+</component>
