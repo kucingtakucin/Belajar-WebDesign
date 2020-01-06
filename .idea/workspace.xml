@@ -25,11 +25,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Mandiri/WhatsNew/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.webOptions" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578194283619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Menambahkan modul CSS">
+      <created>1578199794273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578199794273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -141,18 +150,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Menyelesaikan materi HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan materi HTML" />
+    <MESSAGE value="Menambahkan modul CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan modul CSS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578122741346">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1578122741346" />
-    <state x="287" y="27" width="781" height="768" key="CommitChangelistDialog2" timestamp="1578194282703">
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1578199793922">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
-    <state x="287" y="27" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578194282703" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578199793922" />
     <state x="1867" y="278" width="353" height="219" key="Github.ShareDialog" timestamp="1578053570626">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -161,10 +171,15 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1793" y="8" width="502" height="759" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053595340" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1578128364240">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1578201631048">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1578128364240" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1578201631048" />
+    <state x="674" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578272687861">
+      <screen x="0" y="27" width="2732" height="741" />
+    </state>
+    <state x="337" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578216454493" />
+    <state x="674" y="225" key="com.intellij.ide.util.TipDialog/0.27.2732.741@0.27.2732.741" timestamp="1578272687861" />
     <state x="0" y="27" width="1356" height="554" key="new project wizard" timestamp="1578197823713">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    font-weight: bolder;
+    font-style: italic;
+    color: gray;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    color: darkslateblue;
+    text-align: justify;   
+    text-indent: 2cm;
+    letter-spacing: 1px;
+    word-spacing: normal;
+}
