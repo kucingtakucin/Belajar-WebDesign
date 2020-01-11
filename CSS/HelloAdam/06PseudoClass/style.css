@@ -1,0 +1,63 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: justify;
+	background-image: url("../../Gambar background/circuit/circuit.png");
+}
+
+h1, h2, h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: dodgerblue;
+	font-style: italic;
+	text-align: center;
+}
+
+p:first-of-type {
+	font-size: larger;
+	color: darkblue;
+}
+
+p:last-of-type {
+	font-size: larger;
+	color: darkslateblue;
+}
+
+.hello:link {
+	color: blue;
+}
+
+.hello:hover {
+	font-weight: bolder;
+	font-size: 30px;
+	color: green;
+
+}
+
+.hello:active {
+	font-style: italic;
+	color: gray;
+}
+
+.hello:visited {
+	color: red;
+}
+
+li:nth-child(odd) a {
+	color: red;
+}
+
+li:nth-child(odd) a:active {
+	font-style: italic;
+}
+
+li:nth-child(odd) a:hover {
+	font-size: 20px ;
+	color: aqua;
+}

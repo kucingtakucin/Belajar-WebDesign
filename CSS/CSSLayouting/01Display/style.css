@@ -1,0 +1,62 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+.header h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: darkblue;
+    font-size: 40px;
+    color: white;
+}
+
+.header h2 {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: darkslateblue;
+}
+
+.navigasi h2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+}
+
+.navigasi ul li {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: cornflowerblue;
+}
+
+.navigasi ul li a:hover {
+    font-size: 30px;
+    font-weight: bolder;
+    color: darkgreen;
+}
+
+.navigasi ul li a:active {
+    color: red;
+}
+
+.gambar #uns {
+    background-color: white;
+    width: 50%;
+}
+
+.main {
+    display: inline-block;
+    width: 50%;
+}
+
+.main h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: coral;
+}
+
+.main p {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: lightsalmon;
+    text-align: justify;
+}
+

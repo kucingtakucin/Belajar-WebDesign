@@ -1,0 +1,45 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	background-color: lightblue;
+}
+
+h1, h2, h3 {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: darkblue;
+}
+
+ul li a {
+	color: orangered;
+}
+
+ol li a {
+	color: darkgreen;
+}
+
+#p1 {
+	color: black;
+	font-size: 15px;
+	text-align: justify;
+}
+
+.p2 {
+	color: dimgray;
+	text-align: justify;
+}
+
+.cetak-tebal {
+	font-weight: bold;
+}
+
+p.cetak-tebal {
+	font-size: 20px;
+}

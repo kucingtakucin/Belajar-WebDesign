@@ -7,30 +7,47 @@
  */
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    font-weight: normal;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: justify;
+    background-image: url("morocco.png");
 }
 
-h1 {
+h1, h2, h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: darkblue;
+}
+
+.helo:hover {
+    font-size: 30px;
+}
+
+.helo:active {
     font-weight: bolder;
     font-style: italic;
-    color: gray;
-    text-align: center;
-    text-decoration: underline;
-    text-transform: capitalize;
+    color: darkslategray;
 }
 
-p {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    font-weight: normal;
+li:nth-child(odd) a {
+    color: darkgreen;
+}
+
+li:nth-child(odd) a:hover {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+li:nth-child(even) a:active {
+    font-size: 30px;
     font-style: italic;
-    color: darkslateblue;
-    text-align: justify;   
-    text-indent: 2cm;
-    letter-spacing: 1px;
-    word-spacing: normal;
+    color: indigo;
+}
+
+p:first-of-type {
+    color: cornflowerblue;
+}
+
+p:last-of-type {
+    color: indigo;
 }

@@ -25,13 +25,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/01Display/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/01Display/logo-uns-besar-biru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/01Display/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/02Dimensi&amp;Overflow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/02Dimensi&amp;Overflow/logo-uns-besar-biru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/02Dimensi&amp;Overflow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/02Dimensi&amp;Overflow/symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/03BoxModel-Margin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/03BoxModel-Margin/logo-uns-besar-biru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/03BoxModel-Margin/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting/03BoxModel-Margin/symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/04Background/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/04Background/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/05Selector/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/05Selector/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/06PseudoClass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/06PseudoClass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/logo-uns-besar-biru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/morocco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/._morocco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/._morocco-blue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/circuit/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/circuit/._circuit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/circuit/._readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/morocco-blue/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/morocco-blue/._readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/morocco/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/morocco/._morocco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/morocco/._readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/symphony/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/symphony/._readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/__MACOSX/symphony/._symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/circuit.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/circuit/circuit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/circuit/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/morocco-blue.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/morocco-blue/morocco-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/morocco-blue/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/morocco.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/morocco/morocco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/morocco/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/symphony.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/symphony/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gambar background/symphony/symphony.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +87,19 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloAdamHTMLCSS" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -74,21 +129,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML/helloadam/08Image" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/CSSLayouting/03BoxModel-Margin" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.webOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HTML/helloadam/08Image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HTML/helloadam/10Form" />
       <recent name="$PROJECT_DIR$/HTML/helloadam/09Table" />
@@ -96,8 +158,15 @@
       <recent name="$PROJECT_DIR$/HTML/helloadam/06List" />
       <recent name="$PROJECT_DIR$/HTML/helloadam/05Heading" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/CSSLayouting/03BoxModel-Margin" />
+      <recent name="$PROJECT_DIR$/CSS/CSSLayouting/02Dimensi&amp;Overflow" />
+      <recent name="$PROJECT_DIR$/CSS/CSSLayouting/01Display" />
+      <recent name="$PROJECT_DIR$/CSS/HelloAdam/08Specificity" />
+      <recent name="$PROJECT_DIR$/Gambar background" />
+    </key>
   </component>
-  <component name="RunManager" selected="Google App Engine Deployment.Google App Engine Deployment">
+  <component name="RunManager">
     <configuration name="Google Stackdriver Debug" type="GCPDebug" factoryName="Google Stackdriver Debug">
       <method v="2" />
     </configuration>
@@ -127,6 +196,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578047177669</updated>
+      <workItem from="1578461760719" duration="551000" />
+      <workItem from="1578462489819" duration="963000" />
+      <workItem from="1578471687196" duration="1185000" />
+      <workItem from="1578476417392" duration="570000" />
+      <workItem from="1578477064706" duration="162000" />
+      <workItem from="1578477290775" duration="4374000" />
+      <workItem from="1578494284098" duration="16089000" />
+      <workItem from="1578626263017" duration="3330000" />
+      <workItem from="1578711318987" duration="259000" />
+      <workItem from="1578711849329" duration="6667000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -142,27 +221,43 @@
       <option name="project" value="LOCAL" />
       <updated>1578199794273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Menambahkan modul CSS">
+      <created>1578272983507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578272983507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Menyelesaikan materi HTML" />
     <MESSAGE value="Menambahkan modul CSS" />
     <option name="LAST_COMMIT_MESSAGE" value="Menambahkan modul CSS" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1578461898325">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#Project_Structure/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578461898325" />
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578122741346">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1578122741346" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1578199793922">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2" timestamp="1578272982575">
+      <screen x="0" y="27" width="2732" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578199793922" />
+    <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1867" y="278" width="353" height="219" key="Github.ShareDialog" timestamp="1578053570626">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -171,23 +266,31 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1793" y="8" width="502" height="759" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053595340" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1578201631048">
+    <state x="177" y="27" width="900" height="741" key="SettingsEditor" timestamp="1578477230288">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
+    <state x="177" y="27" width="900" height="741" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578477230288" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1578201631048" />
-    <state x="674" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578272687861">
+    <state x="1366" y="31" width="1366" height="737" key="SettingsEditor/0.27.2732.741@0.27.2732.741" timestamp="1578274167804" />
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1578272994647">
       <screen x="0" y="27" width="2732" height="741" />
     </state>
-    <state x="337" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578216454493" />
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1578272994647" />
+    <state x="337" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578471878297">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="337" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578471878297" />
+    <state x="337" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578325629969" />
     <state x="674" y="225" key="com.intellij.ide.util.TipDialog/0.27.2732.741@0.27.2732.741" timestamp="1578272687861" />
     <state x="0" y="27" width="1356" height="554" key="new project wizard" timestamp="1578197823713">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1366" y="0" width="1356" height="768" key="new project wizard/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578047327067" />
     <state x="0" y="27" width="1356" height="554" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1578197823713" />
-    <state x="346" y="89" key="search.everywhere.popup" timestamp="1578136403104">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578731773520">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1578136403104" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1578731773520" />
+    <state x="692" y="89" width="672" height="678" key="search.everywhere.popup/0.27.2732.741@0.27.2732.741" timestamp="1578532952772" />
   </component>
 </project>

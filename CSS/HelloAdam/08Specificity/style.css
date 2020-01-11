@@ -1,0 +1,55 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: black;
+    background-color: cornflowerblue;
+    background-image: url("symphony.png");
+    text-align: justify;
+}
+
+h1, h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.hello:hover {
+    font-size: 30px;
+    font-style: italic;
+    color: deepskyblue;
+    font-weight: bolder;
+}
+
+.hello:active {
+    color: indigo;
+}
+
+/*.hello:visited {*/
+/*    color: red;*/
+/*}*/
+
+ol li a {
+    color: black;
+}
+
+ol.Laboratorium li a:hover {
+    font-size: 30px;
+    font-style: italic;
+    color: deepskyblue;
+    font-weight: bolder;
+}
+
+ol.Laboratorium li a:active {
+    color: indigo;
+}
+
+
+
+
