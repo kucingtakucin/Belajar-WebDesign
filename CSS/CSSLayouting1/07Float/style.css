@@ -1,0 +1,94 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+.container1 {
+    width: 800px;
+    background-color: #eaeaea;
+    border: 5px solid darkgray;
+    margin: auto ;
+    padding: 10px;
+}
+
+.container1 img {
+    width: 30%;
+    float: left;
+    padding: 10px;
+}
+
+.container1 p {
+    text-align: justify;
+    margin: 0;
+}
+
+.container2 {
+    width: 800px;
+    background-color: #eaeaea;
+    border: 5px solid darkgray;
+    margin: auto;
+    border-top: 0;
+    padding: 10px;
+}
+
+.container2 .kotak {
+    width: 80px;
+    height: 80px;
+    background-color: lightblue;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container3 {
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    border: 5px solid darkgray;
+    border-top: 0;
+    background-color: #eaeaea;
+}
+
+.container3 .kolom1 {
+    width: 200px;
+    height: 350px;
+    background-color: lightblue;
+    float: left;
+    box-sizing: border-box;
+}
+
+.container3 .kolom2 {
+    width: 400px;
+    height: 350px;
+    background-color: lightpink;
+    float: left;
+    box-sizing: border-box;
+}
+
+.container3 .kolom3 {
+    width: 200px;
+    height: 350px;
+    background-color: lightgreen;
+    float: left;
+    box-sizing: border-box;
+}
+
+/* MICRO CLEARFIX */
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}

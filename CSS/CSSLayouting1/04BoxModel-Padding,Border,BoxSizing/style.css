@@ -1,0 +1,56 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+    background-image: url("symphony.png");
+}
+
+.header h1, h2 {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.kotakA, .kotakB, .kotakC, .kotakD {
+    box-sizing: border-box;
+}
+
+.kotakA {
+    background-color: lightgreen;
+    text-align: justify;
+    width: 500px;
+    margin: 10px auto;
+    padding: 30px;
+    border: 10px solid green;
+}
+
+.kotakB {
+    background-color: lightpink;
+    text-align: justify;
+    width: 500px;
+    margin: 10px auto;
+    padding: 45px;
+    border: 15px dashed deeppink;
+}
+
+.kotakC {
+    background-color: lightblue;
+    text-align: justify;
+    width: 500px;
+    margin: 10px auto;
+    padding: 25px;
+    border: 10px dotted blue;
+}
+
+.kotakD {
+    background-color: lightgrey;
+    text-align: justify;
+    width: 500px;
+    margin: 10px auto;
+    padding: 30px;
+    border: 15px double grey;
+}

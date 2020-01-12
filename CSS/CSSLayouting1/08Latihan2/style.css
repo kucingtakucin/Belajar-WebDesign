@@ -1,0 +1,220 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+/* CSS RESET */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address,
+big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tfoot, tbody, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time,
+mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML 5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* MICRO CLEARFIX */
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+
+/* STYLE UTAMA */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-image: url("symphony.png");
+}
+
+hr {
+    margin: 0;
+}
+
+.container {
+    width: 960px;
+    background-color: #eaeaea;
+    margin: auto;
+}
+
+.header {
+    padding: 15px;
+}
+
+.header h1.judul {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.header ul.link li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.header ul.link li a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+.header ul.link li a:hover {
+    font-size: 30px;
+    font-weight: bold;
+    color: lightblue;
+    background-color: darkblue;
+}
+
+.header ul.link li a:active {
+    font-size: 30px;
+    font-weight: bold;
+    color: darkblue;
+    background-color: lightblue;
+}
+
+.gambar {
+    height: 400px;
+    background-image: url("universe-supermassive-black-hole-3840x2160.jpg");
+    background-size: cover;
+    border-top: 10px solid lightgrey;
+    border-bottom: 10px solid lightgrey;
+}
+
+.main {
+    padding: 15px;
+}
+
+.main .konten {
+    width: 600px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.main .konten h1.judul {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main .konten h4.penulis {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.main .konten h4.penulis a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.main .konten h4.penulis a:hover {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: darkblue;
+    color: lightblue;
+}
+
+.main .konten h4.penulis a:active {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.main .konten p {
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.main .sidebar {
+    width: 300px;
+    padding: 10px;
+    border-left: 5px solid grey;
+    box-sizing: border-box;
+    float: right;
+}
+
+.main .sidebar h3.judul {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.main .foto {
+    width: 120px;
+    height: 150px;
+    margin: 10px;
+    background-image: url("foto-1-ssiluet.jpg");
+    background-size: cover;
+    background-position: 0 -45px;
+    float: left;
+}
+
+.main .sidebar p {
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.footer {
+    background-color: gray;
+    padding: 15px;
+}
+
+.footer p.hakcipta {
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}

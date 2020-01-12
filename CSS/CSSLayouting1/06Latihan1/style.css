@@ -1,0 +1,147 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address,
+big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tfoot, tbody, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time,
+mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML 5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* STYLE */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 16px;
+    background-image: url("symphony.png");
+    color: black;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #eaeaea;
+}
+
+.header {
+    padding: 15px;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header ul.link li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.header ul.link li a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.header ul.link li a:hover {
+    background-color: darkblue;
+    color: lightblue;
+    font-size: 25px;
+}
+
+.header ul.link li a:active {
+    background-color: lightskyblue;
+    color: darkblue;
+    font-size: 25px;
+}
+
+.gambar {
+    height: 400px;
+    background-image: url("universe-supermassive-black-hole-3840x2160.jpg");
+    background-size: cover;
+    border-top: 10px solid lightgray;
+    border-bottom: 10px solid lightgray;
+    margin-bottom: -10px;
+}
+
+.main {
+    padding: 15px;
+}
+
+.main h1.judul {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.main p.penulis {
+    font-size: 13px;
+    margin-bottom: 15px;
+    font-style: italic;
+}
+
+.main p.penulis a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.main p.penulis a:hover {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: darkblue;
+    color: lightblue;
+}
+
+.main p {
+    margin-bottom: 10px;
+    text-align: justify;
+    font-size: 14px;
+}
+
+.footer {
+    background-color: gray;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
