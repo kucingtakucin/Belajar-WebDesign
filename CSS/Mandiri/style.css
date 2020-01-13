@@ -70,6 +70,16 @@ body {
     background-size: cover;
 }
 
+.top-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 70px;
+    background-color: lightslategrey;
+    opacity: 0.8;
+}
+
 .container {
     width: 960px;
     background-color: #eaeaea;

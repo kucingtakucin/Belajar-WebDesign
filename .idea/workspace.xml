@@ -25,30 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/09Positioning-Static&amp;Relative/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/09Positioning-Static&amp;Relative/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/10Positioning-Absolute&amp;Fixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/10Positioning-Absolute&amp;Fixed/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/11Z-Indeks/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/11Z-Indeks/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/590032_ribbon_512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/clement-h-95YRwf6CNw8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/foto-1-ssiluet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/jace-afsoon-K4XHqPZq66c-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/kristopher-roller-zepnJQycr4U-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/logo-uns-besar-biru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/symphony.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/universe-supermassive-black-hole-3840x2160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/01Intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/01Intro/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/02BorderRadius/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/02BorderRadius/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/03Opacity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/03Opacity/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +169,8 @@
       <workItem from="1578839610545" duration="312000" />
       <workItem from="1578840064815" duration="10838000" />
       <workItem from="1578876495785" duration="14238000" />
-      <workItem from="1578906321546" duration="598000" />
+      <workItem from="1578906321546" duration="3281000" />
+      <workItem from="1578920290346" duration="4404000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -221,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578818049574</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Melengkapi CSS Layouting">
+      <created>1578908675854</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578908675854</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,10 +240,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1578122741346" />
-    <state x="287" y="27" width="1366" height="741" key="CommitChangelistDialog2" timestamp="1578818048920">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1366" y="0" width="1366" height="741" key="CommitChangelistDialog2" timestamp="1578908673680">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
+    <state x="1366" y="0" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1578908673680" />
     <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578818048920" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1867" y="278" width="353" height="219" key="Github.ShareDialog" timestamp="1578053570626">

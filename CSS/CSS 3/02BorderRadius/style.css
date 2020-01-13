@@ -1,0 +1,66 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+.container {
+    width: 960px;
+    height: 1000px;
+    border: 10px solid grey;
+    background-color: #eaeaea;
+    margin: auto;
+}
+
+.kotak {
+    width: 150px;
+    height: 150px;
+    background-color: lightgreen;
+    margin: 15px auto;
+}
+
+.daun {
+    width: 150px;
+    height: 150px;
+    background-color: lightpink;
+    margin: 15px auto;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+}
+
+.lingkaran {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    margin: 15px auto;
+    border-radius: 75px;
+}
+
+.setengahlingkaran1 {
+    width: 150px;
+    height: 75px;
+    background-color: lightsalmon;
+    margin: 15px auto;
+    border-top-right-radius: 75px;
+    border-top-left-radius: 75px;
+}
+
+.setengahlingkaran2 {
+    width: 150px;
+    height: 75px;
+    background-color: lightslategrey;
+    margin: 15px auto;
+    border-bottom-left-radius: 75px;
+    border-bottom-right-radius: 75px;
+}
+
+.setengahlingkaran3 {
+    width: 150px;
+    height: 150px;
+    background-color: lightcoral;
+    margin: 15px auto;
+    border-top-right-radius: 75px;
+    border-bottom-right-radius: 75px;
+}
