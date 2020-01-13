@@ -1,0 +1,88 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+.container {
+    width: 800px;
+    height: 1100px;
+    border: 10px solid grey;
+    background-color: #eaeaea;
+    margin: 400px auto;
+    position: relative;
+}
+
+.header1 {
+    position: fixed;
+    height: 90px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: darkslategray;
+    z-index: 3;
+}
+
+.header2 {
+    position: fixed;
+    height: 90px;
+    top: 90px;
+    left: 0;
+    right: 0;
+    background-color: indigo;
+    z-index: 1;
+}
+
+.iklan {
+    position: fixed;
+    height: 90px;
+    /*top: 180px;*/
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /*opacity: 0.5;*/
+    background-color: black;
+    /*z-index: 4;*/
+}
+
+.satu, .dua, .tiga, .empat, .lima {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: left;
+    z-index: 1;
+}
+
+.satu {
+    background-color: lightsalmon;
+    top: 80px;
+    left: 80px;
+}
+
+.dua {
+    background-color: lightblue;
+    top: 160px;
+    left: 160px;
+}
+
+.tiga {
+    background-color: lightgreen;
+    top: 240px;
+    left: 240px;
+}
+
+.empat {
+    background-color: lightpink;
+    top: 320px;
+    left: 320px;
+}
+
+.lima {
+    background-color: lightgray;
+    top: 400px;
+    left: 400px;
+}

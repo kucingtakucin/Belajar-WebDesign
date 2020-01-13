@@ -1,0 +1,57 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+.container {
+    width: 800px;
+    height: 1200px;
+    border: 10px solid grey;
+    margin: auto;
+    position: relative;
+}
+
+.satu, .dua, .tiga, .empat, .lima, .enam {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    line-height: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.satu {
+    background-color: lightblue;
+}
+
+.dua {
+    background-color: lightpink;
+    position: relative;
+    top: 80px;
+    right: 50px;
+}
+
+.tiga {
+    background-color: lightgreen;
+}
+
+.empat {
+    background-color: lightsalmon;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.lima {
+    background-color: lightgrey;
+}
+
+.enam {
+    background-color: lightcoral;
+    position: fixed;
+    top: 0;
+    right: 0;
+}

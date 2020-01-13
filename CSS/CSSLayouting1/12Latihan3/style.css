@@ -1,0 +1,233 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+/* CSS RESET */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address,
+big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tfoot, tbody, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time,
+mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML 5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* MICRO CLEARFIX */
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+
+/* STYLE UTAMA */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+    background-position: -200px 0;
+}
+
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    background-color: lightsteelblue;
+    opacity: 0.6;
+    z-index: 9999;
+}
+
+.container {
+    width: 960px;
+    background-color: #eaeaea;
+    margin: 100px auto;
+    position: relative;
+}
+
+.twitter {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-image: url("590032_ribbon_512x512.png");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    position: absolute;
+    top: -29px;
+    right: -29px;
+}
+
+.header h1.judul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+hr {
+    margin: 0;
+}
+
+.header ul {
+    padding: 15px;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-right: 15px;
+
+}
+
+.header ul li a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.header ul li a:hover {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: lightblue;
+    background-color: darkblue;
+    font-weight: bold;
+}
+
+.header ul li a:active {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: darkblue;
+    background-color: lightblue;
+}
+
+.gambar {
+    height: 500px;
+    border-top: 10px solid lightsteelblue;
+    border-bottom: 10px solid lightsteelblue;
+    background-image: url("ilya-pavlov-OqtafYT5kTw-unsplash.jpg");
+    background-size: cover;
+    background-position: 0 -80px;
+    z-index: 3;
+}
+
+.main .konten {
+    width: 600px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.main .konten .badan {
+    padding: 15px;
+}
+
+.main .konten .badan h3.judul {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main .konten .badan p.penulis {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.main .konten .isi {
+    font-family: Arial, Verdana, sans-serif;
+    padding: 15px;
+    text-align: justify;
+}
+
+.main .konten .isi p{
+    margin-bottom: 10px;
+}
+
+.main .sidebar {
+    float: right;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.main .sidebar h3.judul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.main .sidebar .foto {
+    width: 120px;
+    height: 150px;
+    background-image: url("foto-1-ssiluet.jpg");
+    background-size: cover;
+    background-position: 0 -40px;
+    float: left;
+    margin: 10px;
+}
+
+.main .sidebar p {
+    text-align: left;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer {
+    height: 50px;
+    background-color: gray;
+}
+
+.footer p.hakcipta {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+}
