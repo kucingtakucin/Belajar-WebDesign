@@ -1,0 +1,96 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 1000px;
+    height: 1600px;
+    border: 20px solid darkgrey;
+    background-color: rgba(234, 234, 234, 0.5);
+    margin: 50px auto;
+}
+
+.kotak1, .kotak2, .kotak3, .kotak4 {
+    width: 300px;
+    height: 300px;
+    margin: 90px auto;
+    border-radius: 50px;
+}
+
+.kotak1 {
+    background-color: lightblue;
+    box-shadow: 0 40px 10px -20px rgba(0, 0, 0, 1);
+}
+
+.kotak1:hover {
+    border-radius: 90px;
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    box-shadow: 0 100px 10px -40px rgba(0, 0, 0, 0.6);
+}
+
+.kotak1:active {
+    background-color: darkblue;
+}
+
+.kotak2 {
+    background-color: lightsalmon;
+    box-shadow: 40px 0 10px -20px rgba(0, 0, 0 , 1);
+}
+
+.kotak2:hover {
+    border-radius: 90px;
+    width: 400px;
+    height: 400px;
+    background-color: lightsalmon;
+    box-shadow: 100px 0 10px -40px rgba(0, 0, 0, 0.6);
+}
+
+.kotak2:active {
+    background-color: darkviolet;
+}
+
+.kotak3 {
+    background-color: lightgreen;
+    box-shadow: 0 -40px 10px -20px rgba(0, 0, 0, 1);
+}
+
+.kotak3:hover {
+    border-radius: 90px;
+    width: 400px;
+    height: 400px;
+    background-color: lightgreen;
+    box-shadow: 0 -100px 10px -40px rgba(0, 0, 0, 0.6);
+}
+
+.kotak3:active {
+    background-color: darkgreen;
+}
+
+.kotak4 {
+    background-color: lightsteelblue;
+    box-shadow: -40px 0 10px -20px rgba(0, 0, 0, 1);
+}
+
+.kotak4:hover {
+    border-radius: 90px;
+    width: 400px;
+    height: 400px;
+    background-color: lightsteelblue;
+    box-shadow: -100px 0 10px -40px rgba(0, 0, 0, 0.6);
+}
+
+.kotak4:active {
+    background-color: darkslateblue;
+}

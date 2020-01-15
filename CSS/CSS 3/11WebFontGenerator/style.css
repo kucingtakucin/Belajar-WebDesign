@@ -1,0 +1,50 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+@font-face {
+    font-family: "Alex Brush";
+    src: url("AlexBrush-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Indie Flower";
+    src: url("IndieFlower-Regular.ttf") format("truetype");
+}
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+}
+
+.container {
+    width: 1000px;
+    height: 900px;
+    border: 50px solid rgba(128, 128, 128, 0.7);
+    background-color: rgba(234, 234, 234, 0.7);
+    margin: 200px auto;
+}
+
+h1.hello, h2.nama {
+    text-align: center;
+    margin: auto;
+}
+
+h1.hello {
+    font-family: 'Indie Flower', cursive;
+    font-size: 70px;
+}
+
+h2.nama {
+    font-family: "Indie Flower", cursive;
+    font-size: 45px;
+}
+
+p {
+    font-family: "Alex Brush", cursive;
+    font-size: 25px;
+}

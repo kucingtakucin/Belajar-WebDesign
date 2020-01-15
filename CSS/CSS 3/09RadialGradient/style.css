@@ -1,0 +1,64 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+    /*background-position: center ;*/
+}
+
+.container {
+    width: 1000px;
+    height: 2400px;
+    border: 20px solid gray;
+    background-color: rgba(234, 234, 234, 0.7);
+    margin: 100px auto;
+    position: relative;
+}
+
+.persegipanjang1, .persegipanjang2, .persegipanjang3, .persegipanjang4, .persegipanjang5, .persegipanjang6 {
+    width: 600px;
+    height: 250px;
+    position: absolute;
+}
+
+.persegipanjang1 {
+    top: 100px;
+    left: 200px;
+    background: radial-gradient(circle closest-side, rgba(255, 0, 0, 0.7), rgba(0, 0, 255, 0.7));
+}
+
+.persegipanjang2 {
+    top: 400px;
+    left: 200px;
+    background: radial-gradient(ellipse closest-corner, rgba(0, 0, 255, 0.7), rgba(255, 0, 0, 0.7));
+}
+
+.persegipanjang3 {
+    top: 700px;
+    left: 200px;
+    background: radial-gradient(circle farthest-side, rgba(0, 0, 255, 0.7), rgba(255, 0, 0, 0.7));
+}
+
+.persegipanjang4 {
+    top: 1000px;
+    left: 200px;
+    background: radial-gradient(ellipse farthest-corner, rgba(0, 0, 255, 0.7), rgba(255, 0, 0, 0.7));
+}
+
+.persegipanjang5 {
+    top: 1300px;
+    left: 200px;
+    background: radial-gradient(circle farthest-side at top left, rgba(0, 0, 255, 0.7), rgba(255, 0, 0, 0.7));
+}
+
+.persegipanjang6 {
+    top: 1600px;
+    left: 200px;
+    background: radial-gradient(circle farthest-corner at top left, rgba(0, 0, 255, 0.7), rgba(255, 0, 0, 0.7));
+}

@@ -1,0 +1,89 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+@font-face {
+    font-family: "Indie Flower";
+    src: url("IndieFlower-Regular.ttf") format("truetype");
+}
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+}
+
+.container {
+    width: 1000px;
+    height: 3500px;
+    border: 20px solid rgba(128, 128, 128, 0.7);
+    background-color: rgba(234, 234, 234, 0.7);
+    margin: 100px auto;
+}
+
+.kotak, .kotak2, .kotak3, .kotak4, .kotak5, .kotak6, .kotak7, .kotak8, .kotak9, .kotak10 {
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(176, 196, 222, 0.7);
+    transition: 1s;
+}
+
+.kotak:hover {
+    transform: scale(2, 1.5) rotate(360deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak2:hover {
+    transform: rotate(180deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak3:hover {
+    transform: rotateX(180deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak4:hover {
+    transform: rotateY(180deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak5:hover {
+    transform: rotate(180deg) rotateX(180deg) rotateY(180deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak6:hover {
+    transform: skewX(30deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak7:hover {
+    transform: skewX(-30deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak8:hover {
+    transform: skewY(30deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak9:hover {
+    transform: skewY(-30deg);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+.kotak10:hover {
+    transform: translate(50px, 50px);
+    background-color: rgba(176, 196, 222, 1);
+}
+
+p {
+    font-family: "Indie Flower";
+    text-align: justify;
+    font-size: 20px;
+}

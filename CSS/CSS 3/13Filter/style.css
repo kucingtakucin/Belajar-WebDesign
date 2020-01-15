@@ -1,0 +1,29 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+}
+
+.container {
+    width: 1000px;
+    height: 900px;
+    background-color: rgba(234, 234, 234, 0.7);
+    border: 20px solid rgba(128, 128, 128, 0.7);
+    margin: 100px auto;
+}
+
+img {
+    filter: blur(10px) brightness(100%) saturate(100%) grayscale(0) sepia(0) hue-rotate(0) invert(0) opacity(0.7) drop-shadow(25px 25px 25px black);
+    transition: 1s;
+}
+
+img:hover {
+    filter: blur(0);
+}

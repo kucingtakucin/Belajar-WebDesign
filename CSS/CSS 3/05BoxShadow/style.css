@@ -1,0 +1,49 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -150px 0;
+
+}
+
+.container {
+    width: 1000px;
+    height: 13 00px;
+    border: 20px solid lightsteelblue;
+    margin: 100px auto;
+    background-color: rgba(234,234,234,0.7);
+}
+
+.kotak1, .kotak2, .kotak3, .kotak4 {
+    width: 200px;
+    height: 200px;
+    margin: 100px auto;
+}
+
+.kotak1 {
+    background-color: lightblue;
+    box-shadow: 25px 25px 25px rgba(128, 128, 128, 1);
+}
+
+.kotak2 {
+    background-color: lightpink;
+    box-shadow: -25px -25px 25px rgba(128, 128, 128, 1);
+}
+
+.kotak3 {
+    background-color: lightgreen;
+    box-shadow: 25px -25px 25px rgba(128, 128, 128, 1);
+}
+
+.kotak4 {
+    background-color: lightsalmon;
+    box-shadow: -25px 25px 25px rgba(128, 128, 128, 1);
+}
