@@ -1,0 +1,166 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+/* FONT */
+@font-face {
+    font-family: "BebasNeue";
+    src: url("../font/BebasNeue-Regular.woff") format("woff");
+}
+
+/* ANIMATION */
+@keyframes AnimasiZoom {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes AnimasiDown {
+    0% {
+        opacity: 0;
+        margin-top: -50px;
+    }
+
+    100% {
+        opacity: 1;
+        margin-top: 0;
+    }
+}
+
+/* STYLE UTAMA */
+body {
+    font: 20px/36px "BebasNeue", "Arial Narrow", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #ddd;
+}
+
+h1 {
+    margin: 50px 0;
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 15px 15px 15px white;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+.navigasi ul.link {
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;    /* Default */
+    /*flex-wrap: wrap-reverse;*/
+    flex-direction: row;    /* Default */
+    /*flex-direction: row-reverse;*/
+    /*flex-direction: column;*/
+    /*flex-direction: column-reverse;*/
+    /*justify-content: flex-start;  Default*/
+    /*justify-content: flex-end;*/
+    /*justify-content: flex-center;*/
+    /*justify-content: space-between;*/
+    justify-content: space-around;
+    /*align-items: flex-start;*/
+    align-self: center;
+}
+
+ul.gallery li {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /*overflow: hidden;*/
+    border: 10px solid gray;
+    /*display: inline-block;*/
+    float: left;
+    margin: 0 15px;
+    position: relative;
+}
+
+ul.gallery li a img {
+    border-radius: 50%;
+}
+
+ul.gallery li a span {
+    border-radius: 50%;
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(200, 200, 200, 0.5);
+    position: absolute;
+    top: 0;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    text-decoration: none;
+    color: #333333;
+    text-shadow: 2px 2px 2px #dddddd;
+    opacity: 0;
+    /*transform: scale(0) rotate(0);*/
+    transition: 0.5s;
+}
+
+ul.gallery li a:hover span {
+    opacity: 1;
+    /*transform: scale(1) rotate(360deg);*/
+}
+
+ul.gallery li .overlay {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0);
+    text-align: center;
+    padding: 100px 0;
+    z-index: 9999;
+    transition: 0.5s;
+}
+
+ul.gallery li .overlay:target {
+    width: auto;
+    height: auto;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+ul.gallery li .overlay img {
+    max-height: 100%;
+    box-shadow: 25px 25px 25px rgba(0, 0, 0, 0.5);
+}
+
+ul.gallery li .overlay:target img {
+    animation: AnimasiZoom 1s;
+}
+
+ul.gallery li .overlay .close {
+    position: absolute;
+    top: 60px;
+    right: 310px;
+    text-decoration: none;
+    color: white;
+    background-color: #333333;
+    border: 1px solid white;
+    line-height: 20px;
+    padding: 5px;
+    opacity: 0;
+}
+
+ul.gallery li .overlay:target a.close {
+    animation: AnimasiDown 1s 1s forwards;
+}

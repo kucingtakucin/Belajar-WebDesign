@@ -65,7 +65,7 @@ body {
     font-family: Arial, Verdana, sans-serif;
     font-size: 15px;
     color: black;
-    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-image: url("MainMain/lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -133,7 +133,7 @@ hr {
 
 .gambar {
     height: 500px;
-    background-image: url("ilya-pavlov-OqtafYT5kTw-unsplash.jpg");
+    background-image: url("MainMain/ilya-pavlov-OqtafYT5kTw-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-top: 10px solid lightslategrey;

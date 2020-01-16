@@ -1,0 +1,70 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+.container {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container2 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+
+.container3 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: row-reverse;
+}
+
+.container4 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-height: 35rem;
+}
+
+.container5 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+
+.item {
+    font-size: 2rem;
+    line-height: 1;
+    text-align: center;
+    padding: 4rem;
+    background: mistyrose;
+    border: 3px solid tomato;
+    color: tomato;
+    margin: 6px;
+}
+
