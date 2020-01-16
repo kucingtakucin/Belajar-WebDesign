@@ -1,0 +1,63 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+@keyframes AnimasiKotak {
+    0% {
+        width: 200px;
+    }
+
+    50% {
+        width: 500px;
+        height: 200px;
+    }
+
+    100% {
+        width: 500px;
+        height: 500px;
+    }
+}
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    width: 1000px;
+    height: 2400px;
+    border: 25px solid rgba(128, 128, 128, 0.7);
+    background-color: rgba(234, 234, 234, 0.7);
+    margin: 50px auto;
+}
+
+.kotak1, .kotak2, .kotak3, .kotak4 {
+    width: 200px;
+    height: 200px;
+    margin: 50px 50px;
+    background-color: lightsteelblue;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.container:hover .kotak1 {
+    animation: AnimasiKotak 2s normal forwards running;
+}
+
+.container:hover .kotak2 {
+    animation: AnimasiKotak 2s reverse forwards running;
+}
+
+.container:hover .kotak3 {
+    animation: AnimasiKotak 2s 4 alternate forwards running;
+}
+
+.container:hover .kotak4 {
+    animation: AnimasiKotak 2s infinite alternate forwards running;
+}

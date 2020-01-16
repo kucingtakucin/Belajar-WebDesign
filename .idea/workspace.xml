@@ -25,52 +25,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/AlexBrush-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/IndieFlower-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/AlexBrush-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/IndieFlower-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/foto-1-ssiluet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/13Filter/foto-1-ssiluet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/13Filter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/13Filter/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/13Filter/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/14Transform/IndieFlower-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/14Transform/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/14Transform/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/14Transform/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/15Transition/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/15Transition/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/15Transition/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/16Animation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/16Animation/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS 3/16Animation/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/03Opacity/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/03Opacity/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +90,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/CSS 3/14Transform" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/CSS 3/16Animation" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -152,11 +113,11 @@
       <recent name="$PROJECT_DIR$/HTML/helloadam/05Heading" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/CSS 3/16Animation" />
+      <recent name="$PROJECT_DIR$/CSS/CSS 3/15Transition" />
       <recent name="$PROJECT_DIR$/CSS/CSS 3/14Transform" />
       <recent name="$PROJECT_DIR$/CSS/CSS 3/13Filter" />
       <recent name="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix" />
-      <recent name="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator" />
-      <recent name="$PROJECT_DIR$/CSS/CSS 3/10FontFace" />
     </key>
   </component>
   <component name="RunManager">
@@ -213,7 +174,11 @@
       <workItem from="1579004279868" duration="9713000" />
       <workItem from="1579050737767" duration="5294000" />
       <workItem from="1579063082998" duration="11511000" />
-      <workItem from="1579080016201" duration="5500000" />
+      <workItem from="1579080016201" duration="5645000" />
+      <workItem from="1579095246714" duration="4987000" />
+      <workItem from="1579100688634" duration="1294000" />
+      <workItem from="1579136063551" duration="243000" />
+      <workItem from="1579136391094" duration="4343000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -264,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578926628289</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Melengkapi CSS 3">
+      <created>1579087411147</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579087411147</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,10 +290,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="662" height="446" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1579012056685" />
-    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1578962672592">
+    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1579087423124">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1561" y="149" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1578962672592" />
+    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579087423124" />
     <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1578272994647" />
     <state x="337" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578471878297">
       <screen x="0" y="27" width="1366" height="741" />

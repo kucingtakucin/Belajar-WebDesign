@@ -1,0 +1,102 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+body {
+    background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    width: 1000px;
+    height: 2000px;
+    background-color: rgba(234, 234, 234, 0.7);
+    border: 50px solid rgba(128, 128, 128, 0.7);
+    margin: 100px auto;
+    box-sizing: border-box;
+}
+
+.jalur1 {
+    border: 5px solid rgba(0, 0, 0, 0.7);
+}
+
+.jalur1 .kotak1, .kotak2, .kotak3, .kotak4, .kotak5, .kotak6 {
+    width: 250px;
+    height: 250px;
+    background-color: lightblue;
+
+    margin: 10px 10px
+}
+
+.jalur1 .kotak1 {
+    transition: 3s;
+}
+
+.jalur1 .kotak2 {
+    transition: 3s ease-in ;
+}
+
+.jalur1 .kotak3 {
+    transition: 3s ease-in-out;
+}
+
+.jalur1 .kotak4 {
+    transition: 3s ease-out;
+}
+
+.jalur1 .kotak5 {
+    transition: 3s linear;
+}
+
+.jalur1 .kotak6 {
+    transition: 3s cubic-bezier(.68,-0.55,.27,1.55);
+}
+
+.jalur1:hover .kotak1 {
+    transform: rotate(1080deg);
+    margin-left: 640px;
+    background-color: darkslateblue;
+}
+
+.jalur1:hover .kotak2 {
+    transform: rotate(1080deg);
+    margin-left: 640px;
+    background-color: darkslateblue;
+}
+
+.jalur1:hover .kotak3 {
+    transform: rotate(1080deg);
+    margin-left: 640px;
+    background-color: darkslateblue;
+}
+
+.jalur1:hover .kotak4 {
+    transform: rotate(1080deg);
+    margin-left: 640px;
+    background-color: darkslateblue;
+}
+
+.jalur1:hover .kotak5 {
+    transform: rotate(1080deg);
+    margin-left: 640px;
+    background-color: darkslateblue;
+}
+
+.jalur1:hover .kotak6 {
+    transform: rotate(1080deg);
+    margin-left: 640px;
+    background-color: darkslateblue;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    line-height: 250px;
+    font-weight: bold;
+}
