@@ -1,9 +1,5 @@
 /*
- * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
- * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
- * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
- * Vestibulum commodo. Ut rhoncus gravida arcu.
+ * Copyright (c) 2020. Adam Arthur Faizal.
  */
 
 /* FONT */
@@ -37,6 +33,15 @@
     }
 }
 
+@keyframes FadeAja {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
 /* STYLE UTAMA */
 body {
     font: 20px/36px "BebasNeue", "Arial Narrow", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -51,9 +56,8 @@ h1 {
 }
 
 .container {
-    width: 1000px;
+    width: 1200px;
     margin: auto;
-    padding: 30px;
     background-color: white;
     box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.5);
     border-radius: 20px;
@@ -68,13 +72,44 @@ h1 {
     /*flex-direction: row-reverse;*/
     /*flex-direction: column;*/
     /*flex-direction: column-reverse;*/
-    /*justify-content: flex-start;  Default*/
+    justify-content: flex-start;
     /*justify-content: flex-end;*/
     /*justify-content: flex-center;*/
     /*justify-content: space-between;*/
-    justify-content: space-around;
+    /*justify-content: space-around;*/
     /*align-items: flex-start;*/
     align-self: center;
+}
+
+.navigasi ul.link li {
+    margin: 0 15px;
+}
+
+.navigasi ul.link li a {
+    text-decoration: none;
+    color: #eaeaea;
+    background-color: gray;
+    font-size: 30px;
+    padding: 0 10px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.8);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.8);
+    transition: 1s;
+}
+
+.navigasi ul.link li a:hover {
+    background-color: #333333;
+    animation: AnimasiZoom 0.5s forwards;
+}
+
+hr {
+    margin: 0 20px;
+}
+
+ul.gallery {
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
 }
 
 ul.gallery li {
@@ -95,7 +130,8 @@ ul.gallery li a img {
 
 ul.gallery li a span {
     border-radius: 50%;
-    display: block;
+    display: flex;
+    justify-content: center;
     width: 200px;
     height: 200px;
     background-color: rgba(200, 200, 200, 0.5);
@@ -163,4 +199,24 @@ ul.gallery li .overlay .close {
 
 ul.gallery li .overlay:target a.close {
     animation: AnimasiDown 1s 1s forwards;
+}
+
+ul.gallery li .overlay:target .next, .previous {
+    animation: FadeAja 0.5s 0.5s forwards;
+}
+
+.next, .previous {
+    width: 57px;
+    height: 93px;
+    /*background-image: url("");*/
+    position: absolute;
+    text-indent: -9999px;
+    top: 40px;
+    margin-left: 50px;
+    opacity: 0;
+}
+
+.previous {
+    /*background-image: url("");*/
+    margin-left: -100px;
 }

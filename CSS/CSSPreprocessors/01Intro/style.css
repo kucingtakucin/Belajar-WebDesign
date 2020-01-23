@@ -1,0 +1,19 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+body {
+  background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+  background-size: cover; }
+
+.container {
+  width: 1000px;
+  height: 900px;
+  background-color: rgba(234, 234, 234, 0.7);
+  margin: 50px auto; }
+
+.container h1, h2 {
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */

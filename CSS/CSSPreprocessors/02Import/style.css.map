@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAUA,IAAI;EACA,gBAAgB,EAAE,iDAAiD;EACnE,eAAe,EAAE,KAAK;EACtB,mBAAmB,EAAE,MAAM;;AAE/B,UAAU;EACN,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,wBAAwB;EAC1C,MAAM,EAAE,gCAA6B;EACrC,aAAa,EAAE,IAAI;EACnB,MAAM,EAAE,UAAU;;AAEtB,EAAE;EACE,WAAW,ECjBF,iCAAiC;EDkB1C,UAAU,EAAE,MAAM",
+"sources": ["Layout/layout.sass","Variable/variable.sass"],
+"names": [],
+"file": "style.css"
+}

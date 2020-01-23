@@ -1,0 +1,42 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+body .container {
+  width: 1000px;
+  height: 900px;
+  background-color: rgba(234, 234, 234, 0.7);
+  border: 25px solid rgba(128, 128, 128, 0.7);
+  border-radius: 50px;
+  margin: 70px auto; }
+
+body {
+  font-family: Arial, Verdana, sans-serif;
+  background-image: url("lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+  background-size: cover;
+  background-position: center; }
+  body .container .header h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold; }
+  body .container .header ul li a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 30px;
+    transition: 0.5s; }
+    body .container .header ul li a:hover {
+      font-weight: bold;
+      font-size: 40px; }
+  body .container p {
+    font-size: 20px;
+    text-align: justify; }
+
+body .container {
+  width: 1000px;
+  height: 900px;
+  background-color: rgba(234, 234, 234, 0.7);
+  border: 25px solid rgba(128, 128, 128, 0.7);
+  border-radius: 50px;
+  margin: 70px auto; }
+
+/*# sourceMappingURL=style.css.map */

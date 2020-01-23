@@ -1,0 +1,109 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+@font-face {
+  font-family: "BebasNeue";
+  src: url("../font/BebasNeue-Regular.woff") format("woff"); }
+@font-face {
+  font-family: "Alex Brush";
+  src: url("../font/AlexBrush-Regular.ttf") format("ttf"); }
+@font-face {
+  font-family: "Indie Flower";
+  src: url("../font/IndieFlower-Regular.ttf") format("ttf"); }
+body {
+  background-image: url("../image/lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+  background-size: cover;
+  background-position: center; }
+
+body .container .main p {
+  font-family: "Indie Flower";
+  font-size: 20px;
+  text-align: justify;
+  padding: 15px; }
+
+body .container .header h1.judul {
+  font-family: "BebasNeue";
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+  padding: 15px; }
+
+body .container .navigasi ul.link li a {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Alex Brush", cursive;
+  font-weight: bold;
+  color: #333333;
+  padding: 15px; }
+
+body .container {
+  width: 1000px;
+  height: 900px;
+  background-color: rgba(234, 234, 234, 0.7);
+  border: 50px solid rgba(128, 128, 128, 0.7);
+  margin: 100px auto;
+  border-radius: 100px;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px; }
+
+body .container .navigasi ul.link {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 15px; }
+
+@font-face {
+  font-family: "BebasNeue";
+  src: url("../font/BebasNeue-Regular.woff") format("woff"); }
+@font-face {
+  font-family: "Alex Brush";
+  src: url("../font/AlexBrush-Regular.ttf") format("ttf"); }
+@font-face {
+  font-family: "Indie Flower";
+  src: url("../font/IndieFlower-Regular.ttf") format("ttf"); }
+body {
+  background-image: url("../image/lycs-architecture-U2BI3GMnSSE-unsplash.jpg");
+  background-size: cover;
+  background-position: center; }
+
+body .container .main p {
+  font-family: "Indie Flower";
+  font-size: 20px;
+  text-align: justify;
+  padding: 15px; }
+
+body .container .header h1.judul {
+  font-family: "BebasNeue";
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+  padding: 15px; }
+
+body .container .navigasi ul.link li a {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Alex Brush", cursive;
+  font-weight: bold;
+  color: #333333;
+  padding: 15px; }
+
+body .container {
+  width: 1000px;
+  height: 900px;
+  background-color: rgba(234, 234, 234, 0.7);
+  border: 50px solid rgba(128, 128, 128, 0.7);
+  margin: 100px auto;
+  border-radius: 100px;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px; }
+
+body .container .navigasi ul.link {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 15px; }
+
+/*# sourceMappingURL=style.css.map */

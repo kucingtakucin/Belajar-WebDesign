@@ -1,0 +1,74 @@
+/*!
+ / Copyright (c) 2020. Adam Arthur Faizal.
+ /
+@font-face
+    font-family: "BebasNeue"
+    src: url("../font/BebasNeue-Regular.woff") format("woff")
+
+@font-face
+    font-family: "Alex Brush"
+    src: url("../font/AlexBrush-Regular.ttf") format("ttf")
+
+@font-face
+    font-family: "Indie Flower"
+    src: url("../font/IndieFlower-Regular.ttf") format("ttf")
+
+@mixin border-radius($radius)
+    border-radius: $radius
+    -moz-border-radius: $radius
+    -webkit-border-radius: $radius
+
+$font-judul: "BebasNeue", cursive
+$font-biasa: "Indie Flower", cursive
+$font-size-biasa: 20px
+$font-size-besar: 50px
+$text-align: justify
+$judul-align: center
+$judul-tebal: bold
+$warna-standar: #333333
+
+%StandardBody
+    background-image: url("../image/lycs-architecture-U2BI3GMnSSE-unsplash.jpg")
+    background-size: cover
+    background-position: center
+
+%StandardContent
+    font-family: $font-biasa
+    font-size: $font-size-biasa
+    text-align: $text-align
+    padding: 15px
+
+%StandardHeader
+    font-family: $font-judul
+    font-size: $font-size-besar
+    text-align: $judul-align
+    font-weight: $judul-tebal
+    text-shadow: 5px 5px 15px rgba(0,0,0,0.6)
+    padding: 15px
+
+%StandardLink
+    text-decoration: none
+    font-size: 20px
+    font-family: "Alex Brush", cursive
+    font-weight: bold
+    color: $warna-standar
+    padding: 15px
+
+%StandardContainer
+    width: 1000px
+    height: 900px
+    background-color: rgba(234,234,234,0.7)
+    border: 50px solid rgba(128,128,128,0.7)
+    margin: 100px auto
+    @include border-radius(100px)
+
+%StandardFlexBox
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+    padding: 15px
+
+%StandardGambar
+    background-image: url("../image/ilya-pavlov-OqtafYT5kTw-unsplash.jpg")
+    background-size: cover
+    border-top: #333333

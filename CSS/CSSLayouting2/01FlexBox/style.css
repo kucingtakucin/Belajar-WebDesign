@@ -1,9 +1,5 @@
 /*
- * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
- * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
- * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
- * Vestibulum commodo. Ut rhoncus gravida arcu.
+ * Copyright (c) 2020. Adam Arthur Faizal.
  */
 
 .container {
@@ -55,6 +51,106 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: column-reverse;
+    max-height: 35rem;
+}
+
+.container6 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container7 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    border: 5px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container8 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    max-width: 700px;
+    min-height: 500px;
+    border-top: 5px dashed tomato;
+    border-bottom: 5px dashed tomato;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+}
+
+.container9 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    max-width: 700px;
+    min-height: 500px;
+    border-top: 5px dashed tomato;
+    border-bottom: 5px dashed tomato;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+}
+
+.container10 {
+    padding: 10px;
+    background-color: #eaeaea;
+    margin: 15px;
+    max-width: 700px;
+    min-height: 500px;
+    border-top: 5px dashed tomato;
+    border-bottom: 5px dashed tomato;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: flex-end;
+}
+
+.justify-flex-start {
+    justify-content: flex-start;
+}
+
+.justify-flex-end {
+    justify-content: flex-end;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-space-between {
+    justify-content: space-between;
+}
+
+.justify-space-around {
+    justify-content: space-around;
+}
+
+.align-flex-start {
+    align-items: flex-start;
+}
+.align-flex-end {
+    align-items: flex-end;
+}
+.align-center {
+    align-items: center;
+}
+.align-baseline {
+    align-items: baseline;
+}
+.align-stretch {
+    align-items: stretch;
 }
 
 .item {
@@ -68,3 +164,12 @@
     margin: 6px;
 }
 
+.container7 .item-2 {
+    padding: 5rem;
+}
+.container7 .item-3 {
+    padding: 1.5rem;
+}
+.container7 .item-4 {
+    padding: .5rem 2rem 3rem;
+}
