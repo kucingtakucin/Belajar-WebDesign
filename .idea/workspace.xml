@@ -24,323 +24,197 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/01Intro/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/01Intro/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/01Intro/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/01Intro/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/.sass-cache/634cdd5bf2d1d9da18d56b6b11f888eb6d3ae72f/variable.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/.sass-cache/687e8ae4461cf12c29f6506c360aa996f1298158/layout.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/.sass-cache/86338e14c13c5fd6cf9bad016d5bec04de356f54/main.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/Layout/layout.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/Layout/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/Variable/variable.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/02Import/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/.sass-cache/34eefcbd86e6b24529c7e4aeff7c5abd387421f7/layout.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/.sass-cache/506c77f8dabd2fe5ed9a7e7d2ccc3f7584ad3916/main.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/.sass-cache/bf48d2397418072b7458bd7b2fac80cb29bbe85c/variable.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/layout/_layout.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/layout/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/variable/_variable.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/variable/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/.sass-cache/753a54ac07357f88d4442e10e89efd41316864c5/_variable.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/.sass-cache/8192f4b8057c4066256e37febceaaf3af5d6477f/main.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/.sass-cache/d0285cb02e5a7bb8ed0b2ad2a9303fef835b27f7/_layout.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS/clear.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS/main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/SASS/_variable.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/font/BebasNeue-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/layout/_layout.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/SASS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/SASS/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/SASS/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/alert.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/button.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/carousel.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/collapse.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/modal.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/popover.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/tab.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/toast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/toast.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/dist/util.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/toast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/tools/sanitizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/js/src/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_stretched-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/clement-h-95YRwf6CNw8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/full/naruto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/full/orochimaru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/full/sasuke.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/full/tobirama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/jace-afsoon-K4XHqPZq66c-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/kristopher-roller-zepnJQycr4U-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/symphony.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/thumbs/naruto2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/thumbs/orochimaru2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/thumbs/sasuke2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img/thumbs/tobirama2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/Adam_Arthur_Faizal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/Adam_Arthur_Faizal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/MbahPutih.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/MbahPutih.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/Mbah_Putih_Muyosugito.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/Mbah_Putih_Muyosugito.xml" afterDir="false" />
+    <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="Membuat website portfolio dengan bootstrap">
+      <change afterPath="$PROJECT_DIR$/HTML/M3119001-AdamArthurFaizal-HTML-Tutorial.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/01_M3119001_heading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/02_M3119001_paragraf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/03_M3119001_baris.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/04_M3119001_komentar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/05_M3119001_label.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/06_M3119001_formatTeks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/07_M3119001_monospace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/08_M3119001_preformattedteks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/09_M3119001_kutipan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/10_M3119001_pangkat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/11_M3119001_perubahanteks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/12_M3119001_singkatan_akronim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/13_M3119001_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/toast.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/kristopher-roller-zepnJQycr4U-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/laporan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/01Intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/01Intro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/01Intro/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/01Intro/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/02BorderRadius/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/02BorderRadius/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/02BorderRadius/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/02BorderRadius/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/03RGBa&amp;HSLa/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/04Opacity/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/05BoxShadow/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/06BoxShadow2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/07TextShadow/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/08LinearGradient/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/09RadialGradient/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/AlexBrush-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/font/AlexBrush-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/IndieFlower-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/font/IndieFlower-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/10FontFace/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/11WebFontGenerator/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/12VendorPrefix/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/13Filter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/13Filter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/13Filter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/13Filter/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/14Transform/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/14Transform/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/14Transform/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/14Transform/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/15Transition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/15Transition/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/15Transition/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/15Transition/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/16Animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/16Animation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS 3/16Animation/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS 3/16Animation/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/01Display/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/01Display/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/01Display/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/01Display/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/02Dimensi&amp;Overflow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/02Dimensi&amp;Overflow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/02Dimensi&amp;Overflow/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/02Dimensi&amp;Overflow/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/03BoxModel-Margin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/03BoxModel-Margin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/03BoxModel-Margin/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/03BoxModel-Margin/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/04BoxModel-Padding,Border,BoxSizing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/04BoxModel-Padding,Border,BoxSizing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/04BoxModel-Padding,Border,BoxSizing/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/04BoxModel-Padding,Border,BoxSizing/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/05BoxModel-CSSReset/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/05BoxModel-CSSReset/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/05BoxModel-CSSReset/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/05BoxModel-CSSReset/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/06Latihan1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/06Latihan1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/06Latihan1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/06Latihan1/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/07Float/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/07Float/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/07Float/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/07Float/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/08Latihan2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/08Latihan2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/08Latihan2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/08Latihan2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/09Positioning-Static&amp;Relative/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/09Positioning-Static&amp;Relative/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/09Positioning-Static&amp;Relative/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/09Positioning-Static&amp;Relative/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/10Positioning-Absolute&amp;Fixed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/10Positioning-Absolute&amp;Fixed/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/10Positioning-Absolute&amp;Fixed/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/10Positioning-Absolute&amp;Fixed/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/11Z-Indeks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/11Z-Indeks/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/11Z-Indeks/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/11Z-Indeks/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting1/12Latihan3/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting2/01FlexBox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting2/01FlexBox/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSLayouting2/01FlexBox/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSSLayouting2/01FlexBox/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/01CobaCSS/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/02CobaFont/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/03TextStyling/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/04Background/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/04Background/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/04Background/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/04Background/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/05Selector/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/05Selector/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/05Selector/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/05Selector/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/06PseudoClass/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/06PseudoClass/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/06PseudoClass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/06PseudoClass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/07Inheritance/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/HelloAdam/08Specificity/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/CSS/clear.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/CSS/clear.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/CSS/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/CSS/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/MainMain/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/MainMain/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/MainMain/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/MainMain/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/01Pendahuluan/HelloAdam01Pendahuluan.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/01Pendahuluan/HelloAdam01Pendahuluan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/02CodeEditor/HelloAdam02LatihanCodeEditor.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/02CodeEditor/HelloAdam02LatihanCodeEditor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/03Tag/HelloAdam03Tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/03Tag/HelloAdam03Tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/04Paragraf/HelloAdam04Paragraf.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/04Paragraf/HelloAdam04Paragraf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/05Heading/HelloAdam05Heading.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/05Heading/HelloAdam05Heading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/06List/HelloAdam06List.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/06List/HelloAdam06List.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/HelloAdam07Hyperlink.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/HelloAdam07Hyperlink.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/admin/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/admin/admin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/user/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/user/user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/08Image/HelloAdam08Image.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/08Image/HelloAdam08Image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/09Table/09Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/09Table/09Table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/10Form/10Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HelloAdam/10Form/10Form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Mandiri/WhatsNew/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Mandiri/WhatsNew/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/SASS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/SASS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/01Pendahuluan/HelloAdam01Pendahuluan.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/01Pendahuluan/HelloAdam01Pendahuluan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/02CodeEditor/HelloAdam02LatihanCodeEditor.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/02CodeEditor/HelloAdam02LatihanCodeEditor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/03Tag/HelloAdam03Tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/03Tag/HelloAdam03Tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/04Paragraf/HelloAdam04Paragraf.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/04Paragraf/HelloAdam04Paragraf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/05Heading/HelloAdam05Heading.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/05Heading/HelloAdam05Heading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/06List/HelloAdam06List.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/06List/HelloAdam06List.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/HelloAdam07Hyperlink.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/07Hyperlink/HelloAdam07Hyperlink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/admin/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/07Hyperlink/admin/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/07Hyperlink/user/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/07Hyperlink/user/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/08Image/HelloAdam08Image.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/08Image/HelloAdam08Image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/08Image/foto-1-ssiluet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/08Image/foto-1-ssiluet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/08Image/logo-uns-besar-biru.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/08Image/logo-uns-besar-biru.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/09Table/09Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/09Table/09Table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/HelloAdam/10Form/10Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Basic/10Form/10Form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -400,7 +274,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML/Praktikum" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -412,23 +286,23 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+    <property name="settings.editor.selected.configurable" value="Preview.Settings.Editor" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img" />
-      <recent name="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/img" />
-      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio" />
-      <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image" />
-      <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/variable" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/font" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML/Praktikum" />
+      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img" />
+      <recent name="$PROJECT_DIR$/CSS/Mandiri/GaleriFoto+LightBox/img" />
+      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio" />
+      <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image" />
     </key>
   </component>
   <component name="RunManager">
@@ -500,7 +374,19 @@
       <workItem from="1579702682951" duration="1813000" />
       <workItem from="1579747582725" duration="624000" />
       <workItem from="1579764126542" duration="28000" />
-      <workItem from="1579764326055" duration="21437000" />
+      <workItem from="1579764326055" duration="22204000" />
+      <workItem from="1580258120675" duration="3465000" />
+      <workItem from="1580868325988" duration="40000" />
+      <workItem from="1582606020366" duration="2732000" />
+      <workItem from="1582627458676" duration="1716000" />
+      <workItem from="1582637892162" duration="1671000" />
+      <workItem from="1582679271169" duration="3488000" />
+      <workItem from="1582689633416" duration="2514000" />
+      <workItem from="1582699134951" duration="10159000" />
+      <workItem from="1582718948606" duration="2952000" />
+      <workItem from="1582775137483" duration="1265000" />
+      <workItem from="1582777783537" duration="1980000" />
+      <workItem from="1582864125380" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -572,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579179793791</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Membuat website portfolio dengan bootstrap">
+      <created>1579798226726</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579798226726</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +481,8 @@
     <MESSAGE value="Menambahkan CSS Layouting" />
     <MESSAGE value="Melengkapi CSS Layouting" />
     <MESSAGE value="Melengkapi CSS 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Melengkapi CSS 3" />
+    <MESSAGE value="Membuat website portfolio dengan bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Membuat website portfolio dengan bootstrap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -616,12 +510,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2" timestamp="1579179793089">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1580868353126">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
+    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
     <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579179793089" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578926627601" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1579798222964" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
       <screen x="1366" y="0" width="1920" height="1080" />
@@ -635,20 +530,21 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1793" y="8" width="502" height="759" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053595340" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1579774081031">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1582608142308">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="177" y="27" width="900" height="741" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578477230288" />
     <state x="1615" y="0" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579248851476" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579774081031" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582608142308" />
     <state x="1366" y="31" width="1366" height="737" key="SettingsEditor/0.27.2732.741@0.27.2732.741" timestamp="1578274167804" />
     <state width="662" height="446" key="SwitcherDM" timestamp="1579012056685">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="662" height="446" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1579012056685" />
-    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1579507734930">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="139" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1580868371529">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
+    <state x="139" y="129" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868371529" />
     <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507734930" />
     <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1578272994647" />
     <state x="337" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578471878297">

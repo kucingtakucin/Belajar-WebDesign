@@ -30,6 +30,7 @@ section.portofolio {
   min-height: 700px;
   background-color: lightblue;
 }
+
 section.portofolio .container .row .col-sm-12 hr {
   width: 250px;
   border-top: 5px solid #bbbbbb;

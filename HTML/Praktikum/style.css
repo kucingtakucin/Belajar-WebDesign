@@ -1,0 +1,27 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+body {
+  background-image: url("alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg");
+  background-size: cover;
+  min-height: 1000px;
+}
+
+header section.jumbotron {
+  background-color: rgba(234, 234, 234, 0.7);
+}
+
+main section.alert {
+  background-color: rgba(234, 234, 234, 0.7);
+  min-width: 350px;
+}
+
+footer {
+  background-color: rgba(128, 128, 128, 0.8);
+}
+footer h4 {
+  padding: 20px 0;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
