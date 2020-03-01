@@ -1,10 +1,14 @@
-/*
- * Copyright (c) 2020. Adam Arthur Faizal.
- */
+/*!
+ * / Copyright (c) 2020. Adam Arthur Faizal.
+ * / */
 body {
   background-image: url("alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg");
   background-size: cover;
   min-height: 1000px;
+}
+
+nav {
+  opacity: 80%;
 }
 
 header section.jumbotron {
