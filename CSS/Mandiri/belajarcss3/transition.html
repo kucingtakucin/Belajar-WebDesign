@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Belajar CSS 3</title>
+
+  <style>
+    div{
+      width:100px; height:100px; background:blue; margin-bottom:5px;
+      transition: width 1s, background 1s;
+    }
+
+    #div3, #div4{
+      transition: height 1s;
+    }
+
+    #div1:hover{
+      width: 200px;
+    }
+
+    #div2:hover{
+      transition-delay: 2s;
+      background: red;
+    }
+
+    #div3:hover{
+      transition-timing-function: ease-in-out;
+      height: 120px;
+    }
+
+    #div4:hover{
+      transition-timing-function: ease-out;
+      height: 120px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Transition </h1>
+  <div id="div1"></div>
+
+  <div id="div2"></div>
+
+  <div id="div3"></div>
+
+  <div id="div4"></div>
+
+</body>
+</html>

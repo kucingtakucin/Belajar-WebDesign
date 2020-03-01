@@ -1,0 +1,201 @@
+/*
+  ini belajar css
+*/
+
+*{
+  /*margin: 0px;  */
+}
+
+body{
+  /*
+  background-color: #fdfdfd;
+  background-image: url("gambar/koding.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+  */
+  background: #fdfdfd url("gambar/koding.png") no-repeat fixed right;
+  font-family:sans-serif;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  display: inline;
+}
+
+h2{
+  text-align: center;
+  text-transform: uppercase;
+  display: inline;
+}
+
+#text_pendek{
+  font-size: 24px;
+  font-weight: bold;
+  background: yellow;
+  width    : 50%;
+  height   : 200px;
+  max-width: 30%;
+  max-height: 100px;
+  /* visibility: hidden; */
+  display: none;
+}
+
+#text_panjang{
+  text-align: justify;
+  text-indent: 30px;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  line-height: 20px;
+}
+
+#menu_wrap{
+  /*margin: top right bottom left;*/
+  margin: 10px 0 50px 0px;
+}
+
+.menu{
+  display:inline-block;
+  /*height: 50px;
+  width: 100px;*/
+  text-decoration: none;
+
+  border : 3px solid black;
+  padding: 10px;
+}
+
+/*kondisi biasa*/
+.menu:link{
+  background:grey;
+  color:white;
+}
+
+/*kondisi setelah dikunjungi*/
+.menu:visited{
+  background:grey;
+  color:white;
+}
+
+/*kondisi hover- mouse berada diatasnya*/
+.menu:hover{
+  background:green;
+}
+
+/*sedang diklik*/
+.menu:active{
+  background:white;
+}
+
+/*--- mengatur posisi di css ---*/
+/*--- 1. static , 2. relative, 3. absolute , 4.fixed --*/
+/* posisi absolute dia tergantung parent element */
+/* posisi relative dia tergantung browser */
+
+/*
+#menu_member{
+  position: absolute;
+  top: 70px;
+  left: 20px;
+}
+
+#parent_h1{
+  position: relative;
+  top: 100px;
+}
+
+#h1_member{
+  background: red;
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  z-index: -1;
+}
+
+#parent_h2{
+  position: relative;
+  top: 100px;
+}
+
+#h2_member{
+  background: yellow;
+  position: fixed;
+  top: 100px;
+  left: 20px;
+  z-index: -2;
+}
+*/
+
+table{
+  float: right;
+  margin-right: 20px;
+}
+
+/* menghilangkan efek float ke elemen berikutnya */
+#div_baru{
+  clear:both;
+}
+
+ul, ol, dl{
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  width: 33.33%;
+}
+
+#copyright{
+  clear: both;
+  text-align:center;
+}
+
+/*--     halaman kontak     --*/
+h1, h2{
+  color: grey;
+}
+/*
+div a{
+  background: yellow;
+}*/
+
+/* langsung di bawah parentnya*/
+div > a{
+  background: yellow;
+}
+
+/* setelah elemen */
+p + div{
+  background: aqua;
+}
+
+/* semua bagian yang ada di bawahnya */
+div ~ p{
+  background: red;
+}
+
+
+/*
+  HOVER
+  keadaan ketika mouse berada pada elemen tertentu
+  1. diri sendiri
+  2. elemen lain:
+      > langsung didalam
+      + langsung setelah
+      (space) berada disuatu tempat (dalam container)
+*/
+
+h1:hover{
+  color:black;
+}
+
+h1:hover + h2{
+  color: black;
+}
+
+/*
+  FOCUS
+  keadaan ketika input di klik
+*/
+input:focus, textarea:focus{
+  background: yellow;
+}

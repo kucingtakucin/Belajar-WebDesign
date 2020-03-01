@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Belajar CSS 3</title>
+
+  <style>
+
+    body{
+      margin-bottom: 500px;
+      margin-left: 50px;
+    }
+
+    div{
+      background: yellow;
+      width:150px;
+      height:150px;
+      animation-name: goyang;
+      animation-duration: 5s;
+
+      -webkit-animation-name: goyang;
+      -webkit-animation-duration: 5s;
+
+      animation-iteration-count: 2;
+      /*animation-direction: reverse;*/
+
+      animation-delay: 1s;
+      /* fill: nentuin berhenti di kondisi akhir*/
+      animation-fill-mode: forwards;
+      animation-timing-function: ease-in;
+      animation-play-state: paused;
+    }
+
+    div:hover{
+      animation-play-state: running;
+    }
+
+    @keyframes goyang{
+      0% { background: yellow; width:160px; }
+      25%  { background: red; }
+      50%  { background: blue;  width:140px; }
+      75%  { background: aqua; }
+      100%  { background: black; width:100px; }
+    }
+
+    /*chrom, safari, opera*/
+    /*@-webkit-keyframes goyang{
+      from{ background: yellow; }
+      to  { background: red; }
+    }*/
+
+
+  </style>
+</head>
+<body>
+
+  <h1> Animasi </h1>
+  <div></div>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Kontak Sekolah Koding </title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+
+    <!-- menu website -->
+    <div>
+      <a href="index.html"> Home</a>
+      <a href="member.html">Member</a>
+      <a href="kontak.html">Kontak</a>
+    </div>
+
+    <!-- bagian awal, isinya tag heading -->
+    <div>
+      <h1> Kontak Sekolah Koding </h1>
+      <h2> Hubungi tim sekolah koding </h2>
+    </div>
+
+
+    <!-- membuat form-->
+    <form>
+      <fieldset>
+        <legend> Nama dan Pesan </legend>
+        <label for="nama_user">Nama</label>
+        <input type="text" placeholder="Nama User" value="Nama Anda" id="nama_user">
+        <br>
+        <label for="pesan_user">Pesan</label>
+        <textarea cols="100" rows="7" id="pesan_user"> Pesan saya adalah... </textarea>
+        <br>
+      </fieldset>
+
+      <fieldset>
+        <legend> Pilihan data </legend>
+        <label>Hobi</label> <br>
+        <input type="checkbox" name="hobi_user" value="0"> Menggambar
+        <input type="checkbox" name="hobi_user" value="1" checked> Menulis
+        <input type="checkbox" name="hobi_user" value="2"> Menyanyi
+        <br>
+        <label>Jenis Kelamin</label><br>
+        <input type="radio" name="gender" value="0" checked>Laki-laki
+        <input type="radio" name="gender" value="1">Perempuan
+        <br>
+        <label>Pelajaran</label>
+        <select>
+          <optgroup label="Frontend">
+            <option value="html">HTML</option>
+            <option value="css">css</option>
+          </optgroup>
+
+          <optgroup label="Backend">
+            <option value="js">php</option>
+            <option value="db">database</option>
+          </optgroup>
+        </select>
+      </fieldset>
+
+      <br>
+      <input type="submit" value="Kirim Data">
+    </form>
+
+    <p> &copy; SekolahKoding </p>
+  </body>
+</html>

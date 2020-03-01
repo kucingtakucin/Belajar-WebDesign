@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Belajar CSS 3</title>
+  <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+  <style>
+      /*div{
+        background-image: url('desk.jpg');
+        background-size : 200px 200px;
+        background-repeat: no-repeat;
+        background-size : cover;
+        border: 12px dotted black;
+        background-clip: content-box;
+        background-origin: padding-box;
+        padding: 20px;
+      }*/
+
+      @font-face {
+        font-family: sekolahkoding; /*nama fontnya*/
+        src: url(sansation_light.woff);
+      }
+
+      div{
+        font-family: 'Fjalla One', sans-serif;
+        width: 150px;
+        height:150px;
+        background: yellow;
+        overflow-y:hidden;
+        resize: both;
+        opacity: 0.4;
+      }
+
+      img{
+        opacity: 0.5;
+        transition: opacity 2s;
+      }
+      img:hover{
+        opacity: 1;
+      }
+  </style>
+</head>
+
+<body>
+  <h1>Overflow, Resize dan Opacity</h1>
+  <div>
+    Text Here, belajar koding di sekolah koding,
+    Text Here, belajar koding di sekolah koding,
+    Text Here, belajar koding di sekolah koding,
+    Text Here, belajar koding di sekolah koding,
+    Text Here, belajar koding di sekolah koding,
+    Text Here, belajar koding di sekolah koding,
+    Text Here, belajar koding di bagian akhir,
+  </div>
+  <img src="desk.jpg" width=300 alt="">
+</body>
+
+</html>

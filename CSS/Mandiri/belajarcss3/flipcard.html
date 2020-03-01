@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Belajar CSS 3</title>
+
+  <style>
+
+    body{
+      margin-bottom: 500px;
+      margin-left: 50px;
+      font-size: 20px;
+      color:white;
+    }
+
+    #box{
+      perspective: 500px;
+    }
+
+    #card{
+      position: relative;
+      height: 200px; width: 200px;
+      transition: transform 2s;
+      border: 2px solid black;
+      transform-style: preserve-3d;
+    }
+
+    #front, #back{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      height: 200px; width: 200px;
+      backface-visibility: hidden;
+    }
+
+    #front{
+      background: blue;
+    }
+
+    #back{
+      background: red;
+      transform: rotateY(180deg);
+    }
+
+    #card:hover{
+      transform: rotateY(180deg);
+    }
+
+  </style>
+</head>
+<body>
+
+  <h1> Flipcard </h1>
+  <div id="box">
+    <div id="card">
+      <div id="front">Sekolah</div>
+      <div id="back">Koding</div>
+    </div>
+  </div>
+
+</body>
+</html>
