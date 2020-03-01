@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Belajar HTML5</title>
+    <meta charset="utf-8">
+    <style>
+      body {
+        font-family: Verdana, sans-serif;
+        font-size: 12px;
+      }
+      header, nav, main, aside, footer {
+        border:1px solid grey; margin:5px; padding:5px;
+      }
+      main{
+        float: left;
+        width: 60%;
+      }
+      aside{
+        float: left;
+        width: 30%;
+      }
+      footer{
+        clear:both;
+      }
+    </style>
+  </head>
+  <body>
+
+      <header>
+        <h1>Belajar Programming</h1>
+        <h2>bersama sekolah koding</h2>
+      </header>
+
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Profil</a></li>
+          <li><a href="#">Kontak</a></li>
+        </ul>
+      </nav>
+
+      <main>
+
+        <article>
+
+          <video width="300" height="300" controls muted poster="meja.jpg">
+            <source src="media/demo.mp4" type="video/mp4">
+            <source src="media/demo.ogg" type="video/ogg">
+            browser anda tidak didukung
+          </video>
+
+          <audio controls loop muted>
+            <source src="media/demo.wav" type="audio/wav">
+            browser anda tidak didukung
+          </audio>
+
+          <form>
+            <input type="search" name="search" placeholder="cari...">
+            <input type="email" name="email" placeholder="email" required>
+            <input name="startdate" min="2012-01-01" max="2013-01-01" type="date">
+            <input type="color">
+            <input type="submit">
+          </form>
+
+          <figure>
+            <img src="meja.jpg" alt="gambar meja" width="200" height="200">
+            <figcaption>
+              Gambar meja dari admin pada tahun 2016
+              <a href="sekolahkoding.com">website sekolahkoding</a>
+            </figcaption>
+          </figure>
+
+          <dialog open>
+            ini website tutorial sekolahkoding
+          </dialog>
+
+          <details open>
+            <summary>
+              info sekolahkoding
+            </summary>
+            <p> selamat datang di website kami </p>
+          </details>
+
+          <h1>Daftar pelajaran</h1>
+
+          <section>
+            <h2>HTML</h2>
+            <p>membuat struktur website dengan html</p>
+          </section>
+
+          <section>
+            <h2>CSS</h2>
+            <p>Menghias website dengan css</p>
+          </section>
+
+          <section>
+            <h2>Javascript</h2>
+            <p>membuat website lebih interaktif dengan javascript</p>
+          </section>
+        </article>
+
+      </main>
+
+      <aside>
+        <h2>Daftar Artikel</h2>
+        <a href="#">Intro html</a> <br>
+        <a href="#">Mulai belajar website</a> <br>
+        <a href="#">Berguru sampai negeri koding</a>
+      </aside>
+
+      <footer>
+        <p>&copy; 2016 Sekolah Koding</p>
+      </footer>
+
+  </body>
+</html>
