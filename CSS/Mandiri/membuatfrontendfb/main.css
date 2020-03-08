@@ -1,0 +1,207 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+* {
+    padding: 0; margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    float: left;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.content-header {
+    background: #3a5795;
+    color: white;
+    padding: 10px 0;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.content-header form {
+    float: right;
+}
+
+.content-header label {
+    font-size: 12px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid black;
+}
+
+.content-header label,
+.content-header input {
+    display: block;
+}
+
+.content-header input[type="checkbox"] {
+    display: inline-block;
+}
+
+.group-form {
+    float: left;
+    margin-left: 10px;
+}
+
+.group-form a {
+    color: #9daccb;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.content-header input[type="submit"] {
+    background-color: #5972a8;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid black;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+/*---- content middle --------------*/
+.content-middle {
+    background: #edf0f5;
+}
+
+.content-middle .middle-left {
+    float: left;
+    width: 50%;
+    margin-right: 5%;
+}
+
+.content-middle .middle-right {
+    float: left;
+    width: 45%;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.content-middle ul li {
+    list-style: none;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.content-middle ul li span {
+    font-weight: normal;
+    margin-left: 10px;
+    color: grey;
+}
+
+h3 {
+    margin-top: 10px;
+    font-size: 35px;
+}
+
+.middle-right p:nth-child(2) {
+    color: grey;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.middle-right input {
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.middle-right input.inline {
+    float: left;
+    width: 49%;
+    margin-right: 2%;
+}
+
+.middle-right input.inline_last {
+    margin-right: 0;
+}
+
+#birthday_info, #register_info {
+    font-size: 12px;
+    color: grey;
+}
+
+.middle-right p:last-child a, #register_info a {
+    text-decoration: none;
+    color: rgb(46, 113, 228);
+}
+
+#register_info a:hover {
+    text-decoration: underline;
+}
+
+input[type=radio] {
+    display: inline-block;
+    width: 20px;
+    margin-top: 15px;
+}
+
+.middle-right input[type=submit] {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    width: 150px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.middle-right form {
+    border-bottom: 1px solid grey;
+    margin-bottom: 10px;
+}
+
+.middle-right p:last-child {
+    color: grey;
+    margin-bottom: 50px;
+}
+
+::-webkit-input-placeholder { font-size: 15px; }
+input:-moz-placeholder { font-size: 15px; }
+
+/*----------- content-footer --------*/
+.content-footer {
+    padding: 5px 0;
+}
+
+.content-footer a {
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.content-footer li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.content-footer ul:first-child {
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.content-footer p {
+    color: grey;
+    margin: 10px 0;
+    font-size: 12px;
+}
+
+/*--- end ---*/
