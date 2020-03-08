@@ -25,16 +25,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="Menambahkan modul pertemuan 1 dari pak fendi">
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/01_M3119001_heading.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/01_M3119001_heading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/02_M3119001_paragraf.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/02_M3119001_paragraf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/03_M3119001_baris.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/03_M3119001_baris.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/04_M3119001_komentar.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/04_M3119001_komentar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/05_M3119001_label.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/05_M3119001_label.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/06_M3119001_formatTeks.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/06_M3119001_formatTeks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/07_M3119001_monospace.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/07_M3119001_monospace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/08_M3119001_preformattedteks.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/08_M3119001_preformattedteks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/09_M3119001_kutipan.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/09_M3119001_kutipan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/10_M3119001_pangkat.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/10_M3119001_pangkat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/11_M3119001_perubahanteks.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/11_M3119001_perubahanteks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/12_M3119001_singkatan_akronim.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/12_M3119001_singkatan_akronim.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/13_M3119001_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/13_M3119001_image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/14_M3119001_garishorizontal.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/14_M3119001_garishorizontal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/15_M3119001_favicon.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/15_M3119001_favicon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/laporan.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/laporan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/16_M3119001_link1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/16_M3119001_link1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/17_M3119001_link2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/17_M3119001_link2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/18_M3119001_link3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/18_M3119001_link3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/19_M3119001_link4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/19_M3119001_link4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/20_M3119001_anchor.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/20_M3119001_anchor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/21_M3119001_Shortcut.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/21_M3119001_Shortcut.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/22_M3119001_UnOrderList.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/22_M3119001_UnOrderList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/23_M3119001_OrderedList.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/23_M3119001_OrderedList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/24_M3119001_OrderedList2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/24_M3119001_OrderedList2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/25_M3119001_ListBersarang1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/25_M3119001_ListBersarang1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/26_M3119001_ListBersarang2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/26_M3119001_ListBersarang2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/27_M3119001_UrutanList.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/27_M3119001_UrutanList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/laporan.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Praktikum/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,6 +233,8 @@
       <workItem from="1583149493532" duration="127000" />
       <workItem from="1583215528198" duration="1005000" />
       <workItem from="1583230554916" duration="618000" />
+      <workItem from="1583293737293" duration="630000" />
+      <workItem from="1583504698595" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
