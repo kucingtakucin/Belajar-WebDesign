@@ -1,0 +1,125 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal.
+  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+
+   /* %persen */
+
+    *{
+      margin:0;
+      padding:0;
+    }
+
+    body{
+      font-size:15px;
+    }
+
+    #header{
+      background-color:#aaa;
+      height:100px;
+      max-width:100%;
+    }
+
+    h1{
+      font-size:2.5em;
+      text-align:center
+    }
+
+    #main{
+      background-color:#c55252;
+      height:500px;
+      width:80%;
+      float:left;
+
+    }
+
+    .col-4{
+      width: 23%;
+      margin: 1%;
+      float: left;
+      height:200px;
+      background-color:green;
+
+      font-size:2em;
+
+    }
+
+    #sidebar{
+      background-color:#188888;
+      height:500px;
+      width:20%;
+      float:left;
+    }
+
+    #footer{
+      background-color:#36eab1;
+      height:40px;
+      width:100%;
+      clear:both;
+
+      font-size:1.5em;
+    }
+
+
+    @media screen and (max-width: 1000px){
+
+      .col-4{
+        width:48%;
+      }
+
+    }
+
+    @media screen and (max-width: 760px){
+
+
+      body{
+        font-size:12px;
+      }
+
+      .col-4{
+        width:96%;
+        margin:2%;
+      }
+
+      #main{
+        height:auto;
+      }
+
+      #sidebar, #main{
+        width:100%;
+      }
+
+    }
+
+  </style>
+
+</head>
+<body>
+
+  <div id="header">
+    <h1> Judul Website </h1>
+  </div>
+
+  <div id="main">
+
+    <div class="col-4">TEXT DI SINI</div>
+    <div class="col-4">TEXT DI SINI</div>
+    <div class="col-4">TEXT DI SINI</div>
+    <div class="col-4">TEXT DI SINI</div>
+
+  </div>
+
+  <div id="sidebar"></div>
+
+  <div id="footer"> copyright 2015 </div>
+
+</body>
+</html>
