@@ -1,6 +1,6 @@
-/*!
- * / Copyright (c) 2020. Adam Arthur Faizal.
- * / */
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
 body {
   background-image: url("alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg");
   background-size: cover;
@@ -21,11 +21,33 @@ main section.alert {
 }
 
 footer {
-  background-color: rgba(128, 128, 128, 0.8);
+  opacity: 75%;
 }
 footer h4 {
   padding: 20px 0;
+  margin: 0;
   color: white;
+}
+
+@media screen and (max-width: 980px) {
+  footer h4 {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 755px) {
+  footer h4 {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 565px) {
+  footer h4 {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 380px) {
+  footer h4 {
+    font-size: 10px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
