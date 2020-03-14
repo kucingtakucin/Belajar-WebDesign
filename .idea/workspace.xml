@@ -25,16 +25,269 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/about/color_grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/about/foto_sma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/clement-h-95YRwf6CNw8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/naruto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/orochimaru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/sasuke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/tobirama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/jace-afsoon-K4XHqPZq66c-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/kristopher-roller-zepnJQycr4U-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/loading/DSC0021.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/loading/DSC0061.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/naruto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/orochimaru2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/sasuke2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/tobirama2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/toast.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/foto_1_ssiluet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/DSC0021.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/DSC0061.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_2979.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_8154.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_9483.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_9618.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/toast.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/vendor/_rfs.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/CSS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HTML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/HTML.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdamHTMLCSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdamHTMLCSS.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +325,12 @@
       </set>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="VsogFOiV" />
   </component>
@@ -95,7 +354,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/about" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -111,19 +370,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/about" />
-      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img" />
-      <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3" />
-      <recent name="$PROJECT_DIR$/CSS/Mandiri" />
-      <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2" />
       <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/variable" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img" />
+      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/about" />
+      <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3" />
+      <recent name="$PROJECT_DIR$/CSS/Mandiri" />
+      <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2" />
     </key>
   </component>
   <component name="RunManager">
@@ -227,7 +486,13 @@
       <workItem from="1583802928394" duration="20488000" />
       <workItem from="1583844872221" duration="655000" />
       <workItem from="1583852815707" duration="382000" />
-      <workItem from="1583889140556" duration="17155000" />
+      <workItem from="1583889140556" duration="17599000" />
+      <workItem from="1583930769628" duration="7683000" />
+      <workItem from="1583972915876" duration="3329000" />
+      <workItem from="1583987190284" duration="674000" />
+      <workItem from="1583993619554" duration="15647000" />
+      <workItem from="1584109138288" duration="1659000" />
+      <workItem from="1584160198393" duration="25410000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -348,7 +613,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583904010804</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Memperbarui website portofolio ku dan mengubah bagian contact">
+      <created>1583923895786</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583923895786</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +643,8 @@
     <MESSAGE value="Menduplikasi halaman login facebook" />
     <MESSAGE value="Menyelesaikan praktikum 3 dari pak fendi" />
     <MESSAGE value="Menambahkan sesuatu pada Web Portfolio ku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan sesuatu pada Web Portfolio ku" />
+    <MESSAGE value="Memperbarui website portofolio ku dan mengubah bagian contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="Memperbarui website portofolio ku dan mengubah bagian contact" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -407,12 +680,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="1366" y="0" width="864" height="741" key="CommitChangelistDialog2" timestamp="1583904009356">
+    <state x="1366" y="0" width="864" height="741" key="CommitChangelistDialog2" timestamp="1583923895220">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
-    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583904009356" />
+    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583923895220" />
     <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583751627779" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
@@ -442,11 +715,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="662" height="446" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1579012056685" />
-    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1583904016624">
+    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1583923902315">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="139" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583149549361" />
-    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583904016624" />
+    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583923902315" />
     <state x="139" y="129" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583751638341" />
     <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1578272994647" />
     <state x="337" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578471878297">
