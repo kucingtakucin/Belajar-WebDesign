@@ -16,11 +16,11 @@ $(document).ready(function () {
         });
 
         $(home.next().first()).css({
-            transform: 'translate(0px, ' + windowScroll/1.50  + '%)'
+            transform: 'translate(0px, ' + windowScroll/1.35  + '%)'
         });
 
         $(home.next().last()).css({
-            transform: 'translate(0px, ' + windowScroll/1.25 + '%)'
+            transform: 'translate(0px, ' + windowScroll/1.10 + '%)'
         });
 
         if (windowScroll >= aboutOffset - aboutHeight / 2) {
@@ -59,6 +59,18 @@ $(document).ready(function () {
         const targetModal = '#' + this.nextElementSibling.id;
         $(targetModal).modal();
         event.preventDefault();
+    });
+
+    const jumbotronChild = $('.jumbotron').children();
+    jumbotronChild.each(function (element) {
+        setTimeout(function () {
+            jumbotronChild.eq(element).addClass('show-element');
+            setInterval(function () {
+                jumbotronChild.eq(element).css({
+                    transition: '0s'
+                });
+            }, 1000);
+        }, 300 * element);
     });
 
     $('#contact').mouseenter(function () {

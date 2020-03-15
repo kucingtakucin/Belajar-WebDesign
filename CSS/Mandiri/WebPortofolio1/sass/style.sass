@@ -14,113 +14,164 @@ nav.navbar
             font-size: 25px
             margin: 0
             padding: 0
+    .collapse
+        a
+            line-height: 60px
 
-.jumbotron
-    background-image: url("../img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg")
-    background-attachment: fixed
-    background-size: cover
-    overflow: hidden
-    margin: 0
-    img
-        border: 5px solid #bbbbbb
-        box-shadow: 5px 5px 15px rgba(0,0,0)
-        margin-bottom: 75px
-    h1
-        font-weight: bold
-        font-family: "Alex Brush", Arial, Verdana, sans-serif
-        color: #b2b2b2
-        text-shadow: 5px 5px 15px rgba(0,0,0)
-    p
-        color: white
-        margin-bottom: 30px
-        button
-            opacity: 80%
-            font-family: "Indie Flower", cursive
-
-section.about
-    background-image: url("../img/symphony.png")
-    background-attachment: fixed
-    padding: 20px
-    .container
-        .row
-            .col-sm-12
-                hr
-                    width: 250px
-                    border-top: 5px solid #bbbbbb
-            .col-sm-6
-                opacity: 0
-                transform: translate(-50px, 0) rotate(30deg)
-                transition: 2s
-                p
-                    text-align: justify
-                    font-family: "Indie Flower", cursive
-            .my_Pic
-                opacity: 0
-                transform: translate(50px,0) rotate(-30deg)
-                transition: 2s
-                img
-                    width: 75%
-            .col-sm-6.show-element, .my_Pic.show-element
-                opacity: 1
-                transform: translate(0,0)
-
-section.portofolio
-    background-image: url("../img/clement-h-95YRwf6CNw8-unsplash.jpg")
-    background-size: cover
-    background-attachment: fixed
-    padding: 20px
-    .container
-        .row
-            .col-sm-12
-                h2
-                    color: #eaeaea
-                    text-shadow: 5px 5px 10px rgb(0,0,0)
-                hr
-                    width: 250px
-                    border-top: 5px solid #bbbbbb
-    .row
+header
+    .jumbotron
+        background-image: url("../img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg")
+        background-attachment: fixed
+        background-size: cover
+        overflow: hidden
         margin: 0
-        .col-md-4
-            margin-bottom: 10px
-            img
-                opacity: 0
-                transform: translate(0,-50px)
-                transition: 1s
-            img.show-element
-                opacity: 1
-                transform: translate(0,0)
+        img
+            border: 5px solid #bbbbbb
+            box-shadow: 5px 5px 15px rgba(0,0,0)
+            margin-top: 25px
+            margin-bottom: 50px
+            opacity: 0
+            transform: translate(0, -50px)
+            transition: 2s
+        img.show-element
+            opacity: 1
+            transform: translate(0,0)
+        h1
+            font-weight: bold
+            font-family: "Alex Brush", Arial, Verdana, sans-serif
+            color: #b2b2b2
+            text-shadow: 5px 5px 15px rgba(0,0,0)
+            opacity: 0
+            transform: translate(0, -50x)
+            transition: 2s
+        h1.show-element
+            opacity: 1
+            transform: translate(0,0)
+        p
+            color: white
+            margin-bottom: 30px
+            opacity: 0
+            transform: translate(0, -50px)
+            transition: 2s
+            button
+                opacity: 80%
+                font-family: "Indie Flower", cursive
+        p.show-element
+            opacity: 1
+            transform: translate(0 ,0)
 
-section.contact
-    background-image: url("../img/symphony.png")
-    background-attachment: fixed
-    padding: 20px
-    .container
+main
+    section.about
+        background-image: url("../img/symphony.png")
+        background-attachment: fixed
+        padding: 20px
+        .container
+            .row
+                .col-sm-12
+                    hr
+                        width: 250px
+                        border-top: 5px solid #bbbbbb
+                .col-sm-6
+                    opacity: 0
+                    transform: translate(-50px, 0) rotate(30deg)
+                    transition: 2s
+                    p
+                        text-align: justify
+                        font-family: "Indie Flower", cursive
+                .my_Pic
+                    opacity: 0
+                    transform: translate(50px,0) rotate(-30deg)
+                    transition: 2s
+                    img
+                        width: 75%
+                .col-sm-6.show-element, .my_Pic.show-element
+                    opacity: 1
+                    transform: translate(0,0)
+
+    section.portofolio
+        background-image: url("../img/clement-h-95YRwf6CNw8-unsplash.jpg")
+        background-size: cover
+        background-attachment: fixed
+        padding: 20px
+        .container
+            .row
+                .col-sm-12
+                    h2
+                        color: #eaeaea
+                        text-shadow: 5px 5px 10px rgb(0,0,0)
+                    hr
+                        width: 250px
+                        border-top: 5px solid #bbbbbb
         .row
-            .col-sm-12
-                hr
-                    width: 250px
-                    border-top: 5px solid #bbbbbb
-            .alert
-                padding-top: 0
-                padding-bottom: 0
-                margin-bottom: 0
-                .media
-                    margin-bottom: 20px
-                    .media-body
-                        h5
-                            margin: 0
-                        a
-                            text-decoration: none
-                            color: darkblue
-            .alert#alert-kiri, .alert#alert-kanan
-                opacity: 0
-                transform: translate(-50px,0) rotate(30deg)
-                transition: 2s
-            .alert#alert-kanan
-                transform: translate(50px,0) rotate(-30deg)
-            .alert.show-element#alert-kiri, .alert.show-element#alert-kanan
-                opacity: 1
-                transform: translate(0,0)
+            margin: 0
+            .col-md-4
+                margin-bottom: 10px
+                img
+                    opacity: 0
+                    transform: translate(0,-50px)
+                    transition: 1s
+                img.show-element
+                    opacity: 1
+                    transform: translate(0,0)
+
+    section.contact
+        background-image: url("../img/symphony.png")
+        background-attachment: fixed
+        padding: 20px
+        .container
+            .row
+                .col-sm-12
+                    hr
+                        width: 250px
+                        border-top: 5px solid #bbbbbb
+                .alert
+                    padding-top: 0
+                    padding-bottom: 0
+                    margin-bottom: 0
+                    .media
+                        margin-bottom: 20px
+                        .media-body
+                            h5
+                                margin: 0
+                            a
+                                text-decoration: none
+                                color: darkblue
+                .alert#alert-kiri, .alert#alert-kanan
+                    opacity: 0
+                    transform: translate(-50px,0) rotate(30deg)
+                    transition: 2s
+                .alert#alert-kanan
+                    transform: translate(50px,0) rotate(-30deg)
+                .alert.show-element#alert-kiri, .alert.show-element#alert-kanan
+                    opacity: 1
+                    transform: translate(0,0)
+
+    section.judul#judul
+        padding: 20px 20px 0 20px
+        h1
+            margin: 0
+            padding: 0
+            font-family: "Indie Flower", Arial, Verdana, sans-serif, cursive
+        hr
+            width: 500px
+            border-top: 5px solid #bbbbbb
+
+    section.gambar-hero#gambar-hero
+        padding: 0 40px
+        h6
+            font-size: 16px
+            color: #bbbbbb
+            margin: 10px 25px
+        .gambar-wrapper
+            opacity: 0
+            transform: translate(0, -50px)
+            transition: 2s
+        .gambar-wrapper.show-element
+            opacity: 1
+            transform: translate(0, 0)
+
+    section.blog-content#blog-content
+        padding: 20px 40px
 
 footer
     width: 100%
