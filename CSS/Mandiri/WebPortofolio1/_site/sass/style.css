@@ -3,18 +3,16 @@
  */
 nav.navbar {
   opacity: 80%;
-  min-height: 60px;
   padding: 0 25px;
+  transition: 1s;
 }
 nav.navbar a.navbar-brand {
   font-size: 30px;
-}
-nav.navbar a.navbar-brand a {
   font-family: "Alex Brush", Arial, Verdana, sans-serif;
   font-weight: bold;
-  font-size: 25px;
-  margin: 0;
-  padding: 0;
+}
+nav.navbar .collapse:before {
+  transition: 1s;
 }
 nav.navbar .collapse a {
   line-height: 60px;
@@ -34,7 +32,7 @@ header .jumbotron img {
   margin-bottom: 50px;
   opacity: 0;
   transform: translate(0, -50px);
-  transition: 2s;
+  transition: 0.8s;
 }
 header .jumbotron img.show-element {
   opacity: 1;
@@ -46,8 +44,8 @@ header .jumbotron h1 {
   color: #b2b2b2;
   text-shadow: 5px 5px 15px black;
   opacity: 0;
-  transform: translate(0, -50x);
-  transition: 2s;
+  transform: translate(0, -50px);
+  transition: 0.8s;
 }
 header .jumbotron h1.show-element {
   opacity: 1;
@@ -58,7 +56,7 @@ header .jumbotron p {
   margin-bottom: 30px;
   opacity: 0;
   transform: translate(0, -50px);
-  transition: 2s;
+  transition: 0.8s;
 }
 header .jumbotron p button {
   opacity: 80%;
@@ -175,23 +173,11 @@ main section.judul#judul h1 {
 main section.judul#judul hr {
   width: 500px;
   border-top: 5px solid #bbbbbb;
+  margin-bottom: 5px;
 }
-main section.gambar-hero#gambar-hero {
-  padding: 0 40px;
-}
-main section.gambar-hero#gambar-hero h6 {
-  font-size: 16px;
-  color: #bbbbbb;
-  margin: 10px 25px;
-}
-main section.gambar-hero#gambar-hero .gambar-wrapper {
-  opacity: 0;
-  transform: translate(0, -50px);
-  transition: 2s;
-}
-main section.gambar-hero#gambar-hero .gambar-wrapper.show-element {
-  opacity: 1;
-  transform: translate(0, 0);
+main section.judul#judul h6 {
+  font-size: 15px;
+  color: #7b7b7b;
 }
 main section.blog-content#blog-content {
   padding: 20px 40px;
@@ -215,13 +201,39 @@ footer h5 a {
 }
 
 @media screen and (min-width: 560px) and (max-width: 764px) {
-  footer h5 {
+  header .jumbotron p button.btn {
     font-size: 18px;
+    padding: 5px;
+  }
+
+  footer h5 {
+    font-size: 15px;
   }
 }
-@media screen and (max-width: 559px) {
+@media screen and (min-width: 375px) and (max-width: 559px) {
+  header .jumbotron h1 {
+    font-size: 25px;
+  }
+  header .jumbotron p button.btn {
+    font-size: 10px;
+    padding: 5px;
+  }
+
   footer h5 {
-    font-size: 14px;
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 374px) {
+  header .jumbotron h1 {
+    font-size: 25px;
+  }
+  header .jumbotron p button.btn {
+    font-size: 10px;
+    padding: 2px;
+  }
+
+  footer h5 {
+    font-size: 10px;
   }
 }
 

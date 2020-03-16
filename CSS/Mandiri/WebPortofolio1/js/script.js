@@ -10,7 +10,6 @@ $(document).ready(function () {
         const aboutOffset = $('#about').offset().top;
         const portofolioOffset = $('#portofolio').offset().top;
         const contact = $('#contact .d-sm-flex').children();
-
         $(home.first()).css({
             transform: 'translate(0px, ' + windowScroll/3.90 + '%)'
         });
@@ -65,12 +64,12 @@ $(document).ready(function () {
     jumbotronChild.each(function (element) {
         setTimeout(function () {
             jumbotronChild.eq(element).addClass('show-element');
-            setInterval(function () {
+            setTimeout(function () {
                 jumbotronChild.eq(element).css({
                     transition: '0s'
                 });
-            }, 1000);
-        }, 300 * element);
+            }, 250);
+        }, 750 * element);
     });
 
     $('#contact').mouseenter(function () {

@@ -25,17 +25,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/django_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/fotokuNew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/laravel-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/rubyrails-image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/blog.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" afterDir="false" />
@@ -123,11 +128,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog" />
       <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2" />
       <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio/img" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/CSS" />
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image" />
-      <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/03Nesting/variable" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img" />
@@ -245,6 +250,9 @@
       <workItem from="1583993619554" duration="15647000" />
       <workItem from="1584109138288" duration="1659000" />
       <workItem from="1584160198393" duration="35389000" />
+      <workItem from="1584250274705" duration="9092000" />
+      <workItem from="1584261006909" duration="5640000" />
+      <workItem from="1584321981862" duration="11295000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -379,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584188439949</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Menambahkan blog pada website portfolio">
+      <created>1584250526675</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584250526675</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +419,8 @@
     <MESSAGE value="Menambahkan sesuatu pada Web Portfolio ku" />
     <MESSAGE value="Memperbarui website portofolio ku dan mengubah bagian contact" />
     <MESSAGE value="Memperbarui website portofolio dan menambahkan javascript serta jquery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Memperbarui website portofolio dan menambahkan javascript serta jquery" />
+    <MESSAGE value="Menambahkan blog pada website portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan blog pada website portfolio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -440,13 +456,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1584188434809">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1366" y="0" width="864" height="741" key="CommitChangelistDialog2" timestamp="1584341740005">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
-    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583923895220" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584188434809" />
+    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584341740005" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584250525163" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
       <screen x="1366" y="0" width="1920" height="1080" />
@@ -502,11 +518,11 @@
     </state>
     <state x="1854" y="214" key="run.anything.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1578884890386" />
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1578842889193" />
-    <state x="1852" y="90" width="945" height="989" key="search.everywhere.popup" timestamp="1583919366568">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584257354944">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1852" y="90" width="945" height="989" key="search.everywhere.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583919366568" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1583731870770" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1584257354944" />
     <state x="692" y="89" width="672" height="678" key="search.everywhere.popup/0.27.2732.741@0.27.2732.741" timestamp="1578532952772" />
   </component>
 </project>

@@ -4,16 +4,15 @@
 
 nav.navbar
     opacity: 80%
-    min-height: 60px
+    //min-height: 60px
     padding: 0 25px
+    transition: 1s
     a.navbar-brand
         font-size: 30px
-        a
-            font-family: "Alex Brush", Arial, Verdana, sans-serif
-            font-weight: bold
-            font-size: 25px
-            margin: 0
-            padding: 0
+        font-family: "Alex Brush", Arial, Verdana, sans-serif
+        font-weight: bold
+    .collapse:before
+        transition: 1s
     .collapse
         a
             line-height: 60px
@@ -32,7 +31,7 @@ header
             margin-bottom: 50px
             opacity: 0
             transform: translate(0, -50px)
-            transition: 2s
+            transition: 0.8s
         img.show-element
             opacity: 1
             transform: translate(0,0)
@@ -42,8 +41,8 @@ header
             color: #b2b2b2
             text-shadow: 5px 5px 15px rgba(0,0,0)
             opacity: 0
-            transform: translate(0, -50x)
-            transition: 2s
+            transform: translate(0, -50px)
+            transition: 0.8s
         h1.show-element
             opacity: 1
             transform: translate(0,0)
@@ -52,7 +51,7 @@ header
             margin-bottom: 30px
             opacity: 0
             transform: translate(0, -50px)
-            transition: 2s
+            transition: 0.8s
             button
                 opacity: 80%
                 font-family: "Indie Flower", cursive
@@ -155,23 +154,16 @@ main
         hr
             width: 500px
             border-top: 5px solid #bbbbbb
-
-    section.gambar-hero#gambar-hero
-        padding: 0 40px
+            margin-bottom: 5px
         h6
-            font-size: 16px
-            color: #bbbbbb
-            margin: 10px 25px
-        .gambar-wrapper
-            opacity: 0
-            transform: translate(0, -50px)
-            transition: 2s
-        .gambar-wrapper.show-element
-            opacity: 1
-            transform: translate(0, 0)
+            font-size: 15px
+            color: #7b7b7b
 
     section.blog-content#blog-content
         padding: 20px 40px
+        opacity: 0
+        transform: translate(0, -50px)
+        transition: 2s
 
 footer
     width: 100%
@@ -190,11 +182,42 @@ footer
 @media screen and (min-width: 765px ) and (max-width: 990px)
 
 @media screen and (min-width: 560px) and (max-width: 764px)
-    footer
-        h5
-            font-size: 18px
+    header
+        .jumbotron
+            h1
 
-@media screen and (max-width: 559px)
+            p
+                button.btn
+                    font-size: 18px
+                    padding: 5px
+
     footer
         h5
-            font-size: 14px
+            font-size: 15px
+
+@media screen and (min-width: 375px) and (max-width: 559px)
+    header
+        .jumbotron
+            h1
+                font-size: 25px
+            p
+                button.btn
+                    font-size: 10px
+                    padding: 5px
+    footer
+        h5
+            font-size: 12px
+
+@media screen and (max-width: 374px)
+    header
+        .jumbotron
+            h1
+                font-size: 25px
+            p
+                button.btn
+                    font-size: 10px
+                    padding: 2px
+    footer
+        h5
+            font-size: 10px
+

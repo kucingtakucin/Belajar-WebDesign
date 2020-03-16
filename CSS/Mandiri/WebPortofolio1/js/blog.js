@@ -5,11 +5,6 @@ $(document).ready(function () {
     $(window).scroll(function () {
         const windowScroll = $(this).scrollTop();
         const home = $('#home').children();
-        const jumbotronHeight = $('.jumbotron').outerHeight(true);
-        const gambarHero = $('.gambar-hero .gambar-wrapper');
-
-        const gambarOffset = $('#gambar-hero').offset().top;
-
         $(home.first()).css({
             transform: 'translate(0px, ' + windowScroll/3.90 + '%)'
         });
@@ -21,10 +16,22 @@ $(document).ready(function () {
         $(home.next().last()).css({
             transform: 'translate(0px, ' + windowScroll/1.10 + '%)'
         });
-
-        if (windowScroll >= gambarOffset - jumbotronHeight / 4) {
-            gambarHero.addClass('show-element');
-        }
     });
 
+    const jumbotronChild = $('.jumbotron').children();
+    jumbotronChild.each(function (element) {
+        setTimeout(function () {
+            jumbotronChild.eq(element).addClass('show-element');
+            setTimeout(function () {
+                jumbotronChild.eq(element).css({
+                    transition: '0s'
+                });
+            }, 250);
+        }, 750 * element);
+    });
+
+
+    $('.navbar-toggler').click(function () {
+        $('.collapse').collapse('toggle');
+    });
 });
