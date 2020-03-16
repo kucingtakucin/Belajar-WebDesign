@@ -25,23 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/django_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/fotokuNew.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/laravel-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/rubyrails-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/fotokuNew.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" afterDir="false" />
@@ -252,7 +244,8 @@
       <workItem from="1584160198393" duration="35389000" />
       <workItem from="1584250274705" duration="9092000" />
       <workItem from="1584261006909" duration="5640000" />
-      <workItem from="1584321981862" duration="11295000" />
+      <workItem from="1584321981862" duration="13747000" />
+      <workItem from="1584350115714" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584250526675</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Memperbaruui web lagi dan lagi">
+      <created>1584341744640</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1584341744640</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +420,8 @@
     <MESSAGE value="Memperbarui website portofolio ku dan mengubah bagian contact" />
     <MESSAGE value="Memperbarui website portofolio dan menambahkan javascript serta jquery" />
     <MESSAGE value="Menambahkan blog pada website portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan blog pada website portfolio" />
+    <MESSAGE value="Memperbaruui web lagi dan lagi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Memperbaruui web lagi dan lagi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -456,12 +457,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="1366" y="0" width="864" height="741" key="CommitChangelistDialog2" timestamp="1584341740005">
+    <state x="1366" y="0" width="864" height="741" key="CommitChangelistDialog2" timestamp="1584353822513">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
-    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584341740005" />
+    <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584353822513" />
     <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584250525163" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
@@ -491,11 +492,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="662" height="446" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1579012056685" />
-    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1583923902315">
+    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584341755835">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="139" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583149549361" />
-    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583923902315" />
+    <state x="1561" y="149" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584341755835" />
     <state x="139" y="129" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583751638341" />
     <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1578272994647" />
     <state x="337" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578471878297">
@@ -508,6 +509,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2092" y="455" width="457" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583823413085" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1584341749916">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584341749916" />
     <state x="0" y="27" width="1356" height="554" key="new project wizard" timestamp="1578197823713">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
