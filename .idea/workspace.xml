@@ -25,18 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/fotokuNew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +52,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="Sass File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -245,7 +239,9 @@
       <workItem from="1584250274705" duration="9092000" />
       <workItem from="1584261006909" duration="5640000" />
       <workItem from="1584321981862" duration="13747000" />
-      <workItem from="1584350115714" duration="2191000" />
+      <workItem from="1584350115714" duration="3980000" />
+      <workItem from="1584415017450" duration="758000" />
+      <workItem from="1584420583869" duration="9403000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -394,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584341744640</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Menambahkan parallax effect di bagian blog">
+      <created>1584353825137</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584353825137</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +424,8 @@
     <MESSAGE value="Memperbarui website portofolio dan menambahkan javascript serta jquery" />
     <MESSAGE value="Menambahkan blog pada website portfolio" />
     <MESSAGE value="Memperbaruui web lagi dan lagi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Memperbaruui web lagi dan lagi" />
+    <MESSAGE value="Menambahkan parallax effect di bagian blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan parallax effect di bagian blog" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
