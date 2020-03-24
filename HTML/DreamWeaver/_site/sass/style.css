@@ -1,6 +1,6 @@
-/*
- * Copyright (c) 2020. Adam Arthur Faizal.
- */
+/*!
+ * / Copyright (c) 2020. Adam Arthur Faizal.
+ * / */
 @font-face {
   font-family: "Cuprum";
   src: url("../font/Cuprum/Cuprum-Regular-webfont.woff") format("woff");
@@ -45,6 +45,10 @@ body .container main#content .media .media-body {
   position: relative;
   min-height: 200px;
 }
+body .container main#content .media .media-body h2 a {
+  text-decoration: none;
+  color: black;
+}
 body .container main#content .media .media-body span {
   margin-right: 50px;
 }
@@ -69,6 +73,19 @@ body footer.jumbotron .container .row .col-sm-4 h2 .AdamNews {
 }
 body footer.jumbotron .container .row .col-sm-4 h2 .com {
   color: #0a7b80;
+}
+body footer.jumbotron .container .row .col-sm-4 p {
+  margin: 0;
+}
+body footer.jumbotron .container .row ul {
+  padding: 0 0 0 20px;
+}
+body footer.jumbotron .container .row ul li {
+  list-style: none;
+}
+body footer.jumbotron .container .row ul li a {
+  text-decoration: none;
+  color: #3d9ee2;
 }
 body footer.jumbotron .container .row .col-sm-12 p {
   height: 50px;
