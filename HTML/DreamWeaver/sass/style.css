@@ -1,6 +1,6 @@
-/*!
- * / Copyright (c) 2020. Adam Arthur Faizal.
- * / */
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
 @font-face {
   font-family: "Cuprum";
   src: url("../font/Cuprum/Cuprum-Regular-webfont.woff") format("woff");
@@ -59,6 +59,9 @@ body .container main#content .media .media-body button {
 }
 body .container main#content aside#sidebar a {
   color: #3d9ee2;
+}
+body .container main#content section.main {
+  margin-top: 20px;
 }
 body footer.jumbotron {
   font-family: "Cuprum", sans-serif;
