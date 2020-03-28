@@ -25,21 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/img/corona1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/img/corona2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/img/corona1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/img/corona2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/audio/QS081.MP3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/audio/QS081.MP3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/sass/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/article-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/article-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/article-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/sass/style.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +100,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML/DreamWeaver/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML/DreamWeaver/audio" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -130,11 +124,11 @@
       <recent name="$PROJECT_DIR$/CSS/CSSPreprocessors/04Mixin/image" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML/DreamWeaver/audio" />
       <recent name="$PROJECT_DIR$/HTML/DreamWeaver/img" />
       <recent name="$PROJECT_DIR$/HTML/DreamWeaver/img/favicon" />
       <recent name="$PROJECT_DIR$/HTML/DreamWeaver/font" />
       <recent name="$PROJECT_DIR$/HTML/DreamWeaver/font/Cuprum" />
-      <recent name="$PROJECT_DIR$/HTML/DreamWeaver" />
     </key>
   </component>
   <component name="RunManager">
@@ -259,7 +253,7 @@
       <workItem from="1584795852791" duration="1303000" />
       <workItem from="1584875009880" duration="1369000" />
       <workItem from="1585029908051" duration="6536000" />
-      <workItem from="1585364177966" duration="1743000" />
+      <workItem from="1585364177966" duration="2318000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -436,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585051359679</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Menyelesaikan tugas nya pak fendi yang dreamweaver">
+      <created>1585366151643</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585366151652</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +468,8 @@
     <MESSAGE value="Menambahkan modul dreamweaver" />
     <MESSAGE value="Menyempurnakan website portal berita AdamNews.com" />
     <MESSAGE value="Melanjutkan modul dreamweaver dengan menambahkan 3 single post" />
-    <option name="LAST_COMMIT_MESSAGE" value="Melanjutkan modul dreamweaver dengan menambahkan 3 single post" />
+    <MESSAGE value="Menyelesaikan tugas nya pak fendi yang dreamweaver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan tugas nya pak fendi yang dreamweaver" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -573,11 +575,11 @@
     </state>
     <state x="1854" y="214" key="run.anything.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1578884890386" />
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1578842889193" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584257354944">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585366573411">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1852" y="90" width="945" height="989" key="search.everywhere.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583919366568" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1584257354944" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1585366573411" />
     <state x="692" y="89" width="672" height="678" key="search.everywhere.popup/0.27.2732.741@0.27.2732.741" timestamp="1578532952772" />
   </component>
 </project>
