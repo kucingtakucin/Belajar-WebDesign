@@ -25,15 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/audio/QS081.MP3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/DreamWeaver/audio/QS081.MP3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/M3119001-AdamArthurFaizal-TiA-AV.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/_site/article-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/article-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/article-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/DreamWeaver/article-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/DreamWeaver/article-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +247,8 @@
       <workItem from="1584795852791" duration="1303000" />
       <workItem from="1584875009880" duration="1369000" />
       <workItem from="1585029908051" duration="6536000" />
-      <workItem from="1585364177966" duration="2318000" />
+      <workItem from="1585364177966" duration="2560000" />
+      <workItem from="1585631203953" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -437,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585366151652</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Menambahkan audio pada html wkwk">
+      <created>1585366733663</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585366733663</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,7 +471,8 @@
     <MESSAGE value="Menyempurnakan website portal berita AdamNews.com" />
     <MESSAGE value="Melanjutkan modul dreamweaver dengan menambahkan 3 single post" />
     <MESSAGE value="Menyelesaikan tugas nya pak fendi yang dreamweaver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan tugas nya pak fendi yang dreamweaver" />
+    <MESSAGE value="Menambahkan audio pada html wkwk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan audio pada html wkwk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -505,13 +508,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1585366150210">
+    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1585366733155">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
     <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584676997688" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585366150210" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585366733155" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
       <screen x="1366" y="0" width="1920" height="1080" />
