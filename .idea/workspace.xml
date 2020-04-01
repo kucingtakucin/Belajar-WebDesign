@@ -25,23 +25,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/08BorderRadius.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/09LinearGradient.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/10BoxShadow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/gradient.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/memo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/pseudoclass.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/shadow-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/07PseudoClass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/07PseudoClass2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/08BorderRadius.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/08BorderRadius2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/09LinearGradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/09LinearGradient2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/10BoxShadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/10BoxShadow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/11Nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/12Aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/13Card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/14Button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/15Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/button-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/card-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/nav-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/side-nav-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/table-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/11Nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/11Nav2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/11Nav3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/12Aside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/12Aside2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/12Aside3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/14Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/14Button2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/15Table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/15Table2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/15Table3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/laravel-image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/05FormatTextdanFont.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/05FormatTextdanFont.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/06Background.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/06Background.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/07PseudoClass.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/07PseudoClass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/08BorderRadius.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/08BorderRadius.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/09LinearGradient.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/09LinearGradient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/10BoxShadow.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/10BoxShadow.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppMain.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,19 +141,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/js" />
-      <recent name="$PROJECT_DIR$/HTML/DreamWeaver/audio" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
       <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/js" />
+      <recent name="$PROJECT_DIR$/HTML/DreamWeaver/audio" />
     </key>
   </component>
   <component name="RunManager">
@@ -266,7 +282,8 @@
       <workItem from="1585631203953" duration="15688000" />
       <workItem from="1585657145598" duration="9995000" />
       <workItem from="1585704073380" duration="2020000" />
-      <workItem from="1585716336094" duration="9283000" />
+      <workItem from="1585716336094" duration="19192000" />
+      <workItem from="1585746390698" duration="4704000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -471,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585718575928</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Hmm bentar lagi selesai nih yang css, semangat arthur">
+      <created>1585726558649</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585726558649</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +530,8 @@
     <MESSAGE value="Menambahkan audio pada html wkwk" />
     <MESSAGE value="Menambahkan audio2 pada html wkwk" />
     <MESSAGE value="Menuelesaikan modul css nya pak fendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menuelesaikan modul css nya pak fendi" />
+    <MESSAGE value="Hmm bentar lagi selesai nih yang css, semangat arthur" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hmm bentar lagi selesai nih yang css, semangat arthur" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -542,22 +567,23 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1585718568815">
+    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1585753693667">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
     <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584676997688" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585718568815" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585753693667" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579240274215" />
-    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583809103216">
+    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585739282759">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583809103216" />
+    <state x="461" y="159" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585739282759" />
     <state x="0" y="27" width="1356" height="741" key="FileDocumentManager.FileCacheConflict" timestamp="1585051389944">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

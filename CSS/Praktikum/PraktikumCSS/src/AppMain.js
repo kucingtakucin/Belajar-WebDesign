@@ -31,11 +31,11 @@ class AppMain extends Component {
                     </section>
                     <section className="alert alert-secondary">
                         <ul>
-                            <li><a href="#">11. Nav</a></li>
-                            <li><a href="#">12. Aside</a></li>
-                            <li><a href="#">13. Card</a></li>
-                            <li><a href="#">14. Button</a></li>
-                            <li><a href="#">15. Table</a></li>
+                            <li><a href="DaftarIsi/11Nav.html" target="_blank">11. Nav</a></li>
+                            <li><a href="DaftarIsi/12Aside.html" target="_blank">12. Aside</a></li>
+                            <li><a href="DaftarIsi/13Card.html" target="_blank">13. Card</a></li>
+                            <li><a href="DaftarIsi/14Button.html" target="_blank">14. Button</a></li>
+                            <li><a href="DaftarIsi/15Table.html" target="_blank">15. Table</a></li>
                         </ul>
                     </section>
                 </div>
