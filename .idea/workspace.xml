@@ -25,312 +25,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/02Margin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/03Padding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/04Border.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/05FormatTextdanFont.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/06Background.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/07PseudoClass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/format-text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/01WidthHeight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/02Margin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/03Padding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/04Border.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/05FormatTextdanFont.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/05FormatTextdanFont2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/06Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/06Background2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/symphony.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppMain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/specimen_files/Cuprum-Regular-cleartype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/How_to_use_webfonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/indie-flower-fontfacekit.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/08BorderRadius.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/09LinearGradient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/10BoxShadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/gradient.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/memo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/pseudoclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/shadow-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/07PseudoClass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/07PseudoClass2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/08BorderRadius.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/08BorderRadius2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/09LinearGradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/09LinearGradient2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/10BoxShadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/10BoxShadow2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/01_M3119001_heading.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/02_M3119001_paragraf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/03_M3119001_baris.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/04_M3119001_komentar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/05_M3119001_label.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/06_M3119001_formatTeks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/07_M3119001_monospace.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/08_M3119001_preformattedteks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/09_M3119001_kutipan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/10_M3119001_pangkat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/11_M3119001_perubahanteks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/12_M3119001_singkatan_akronim.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/13_M3119001_image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html01heading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html02paragraf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html03baris.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html04komentar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html05label.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html06formatteks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html07monospace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html08preformatteks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html09kutipan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html10pangkat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html11perubahanteks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html12singkatanakronim.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan1/html13image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/14_M3119001_garishorizontal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/15_M3119001_favicon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/16_M3119001_link1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/17_M3119001_link2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/18_M3119001_link3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/19_M3119001_link4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/20_M3119001_anchor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/21_M3119001_Shortcut.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/22_M3119001_UnOrderList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/23_M3119001_OrderedList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/24_M3119001_OrderedList2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/25_M3119001_ListBersarang1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/26_M3119001_ListBersarang2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/27_M3119001_UrutanList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html14garishorizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html15favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html16link1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html17link2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html18link3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html19link4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html20anchorpart1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html20anchorpart2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html21shortcut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html22unorderlist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html23orderedlist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html24orderedlist2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html25nestedlist1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html26nestedlist2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/html27urutanlist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/28_M3119001_MembuatTabel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/29_M3119001_formatTabel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/30_M3119001_margingCell.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/31_M3119001_valign.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/32_M3119001_Login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/33_M3119001_RadioButton.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/34_M3119001_Textarea.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/35_M3119001_combobox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/36_M3119001_Listbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/37_M3119001_checkbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/38_M3119001_Upload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html28MembuatTabel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html29FormatTabel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html30margingcell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html31valign.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html32login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html33radio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html34textarea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html35combobox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html36listbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html37checkbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/Pertemuan3/html38upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/alert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/alert.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/button.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/carousel.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/collapse.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/dropdown.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/modal.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/popover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/popover.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/scrollspy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/scrollspy.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tab.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/toast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/toast.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/tooltip.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/dist/util.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/alert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/popover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/scrollspy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/tab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/toast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/tools/sanitizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/js/src/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_custom-forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_popover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_spinners.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_toasts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_deprecate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_display.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_flex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_overflow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_stretched-link.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/bootstrap/scss/vendor/_rfs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/kristopher-roller-zepnJQycr4U-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Praktikum/style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/07PseudoClass.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/07PseudoClass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppMain.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,8 +65,8 @@
       <list>
         <option value="Sass File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -422,10 +134,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
       <recent name="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog" />
-      <recent name="$PROJECT_DIR$/HTML/Praktikum/Pertemuan2" />
     </key>
   </component>
   <component name="RunManager">
@@ -554,7 +266,7 @@
       <workItem from="1585631203953" duration="15688000" />
       <workItem from="1585657145598" duration="9995000" />
       <workItem from="1585704073380" duration="2020000" />
-      <workItem from="1585716336094" duration="2211000" />
+      <workItem from="1585716336094" duration="9283000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -752,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585631898154</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Menuelesaikan modul css nya pak fendi">
+      <created>1585718575928</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585718575928</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
