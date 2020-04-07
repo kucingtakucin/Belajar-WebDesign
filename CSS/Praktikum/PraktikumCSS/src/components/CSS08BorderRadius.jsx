@@ -5,7 +5,7 @@
 import React, {Component} from 'react';
 import '../App.css';
 import './css/memo.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/08BorderRadius.png';
 import gambar2 from './img/08BorderRadius2.png';
 import {NavLink} from "react-router-dom";
@@ -14,8 +14,8 @@ class CSS08BorderRadius extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            kiri: '<',
-            kanan: '>',
+            kiri: 'Kiri',
+            kanan: 'Kanan',
         }
     }
 

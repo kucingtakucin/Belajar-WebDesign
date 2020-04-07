@@ -6,27 +6,25 @@ import React, {Component} from 'react';
 import '../App.css';
 import './css/template.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import gambar from './img/04Border.png';
+import gambar from './img/01WidthHeight.png';
 import {NavLink} from "react-router-dom";
 
-class CSS04Border extends Component {
-    render() {
+class CSS01WidthHeight extends Component {
+    render(){
         return (
-            <div className="css04">
+            <div className="css01">
                 <header>
                     <div className="jumbotron">
-                        <h1 className="display-4 text-center">Border</h1>
+                        <h1 className="display-4 text-center">Width & Height</h1>
                     </div>
                 </header>
                 <div className="container">
                     <main>
-                        <div id="box">
-                            <p>Ini adalah Box</p>
-                        </div>
-                        <img className="img-thumbnail" src={gambar} alt="Border" />
+                        <div id="box">Ini adalah Box</div>
+                        <img className="img-thumbnail" src={gambar} alt="Width Height"/>
                     </main>
                     <footer>
-                        <NavLink to="/" className="btn btn-lg btn-secondary">Kembali</NavLink>
+                        <NavLink className="btn btn-lg btn-secondary" to="/">Kembali</NavLink>
                     </footer>
                 </div>
             </div>
@@ -34,4 +32,4 @@ class CSS04Border extends Component {
     }
 }
 
-export default CSS04Border;
+export default CSS01WidthHeight;

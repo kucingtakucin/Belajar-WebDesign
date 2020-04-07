@@ -5,7 +5,7 @@
 import React, {Component} from 'react';
 import '../App.css';
 import './css/nav-style.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/11Nav.png';
 import gambar2 from './img/11Nav2.png';
 import gambar3 from './img/11Nav3.png';
@@ -24,13 +24,13 @@ class CSS11Nav extends Component {
                     <main>
                         <nav className="nav">
                             <div className="title">
-                                <a href="#">OneNav</a>
+                                <NavLink to="#">OneNav</NavLink>
                             </div>
                             <ul>
-                                <li><a href="#" className="active">Home</a></li>
-                                <li><a href="#">Portfolio</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><NavLink to="#" className="active">Home</NavLink></li>
+                                <li><NavLink to="#">Portfolio</NavLink></li>
+                                <li><NavLink to="#">About</NavLink></li>
+                                <li><NavLink to="#">Contact</NavLink></li>
                             </ul>
                         </nav>
                         <img className="img-thumbnail" src={gambar} alt="Nav"/>

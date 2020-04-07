@@ -5,7 +5,7 @@
 import React, {Component} from 'react';
 import '../App.css';
 import './css/template.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/03Padding.png';
 import {NavLink} from "react-router-dom";
 

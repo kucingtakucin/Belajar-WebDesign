@@ -5,7 +5,7 @@
 import React, {Component} from 'react';
 import '../App.css';
 import './css/format-text.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/05FormatTextdanFont.png';
 import gambar2 from './img/05FormatTextdanFont2.png';
 import {NavLink} from "react-router-dom";

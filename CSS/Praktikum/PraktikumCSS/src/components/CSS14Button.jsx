@@ -4,8 +4,7 @@
 
 import React, {Component} from 'react';
 import '../App.css';
-import './css/nav-style.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/14Button.png';
 import gambar2 from './img/14Button2.png';
 import {NavLink} from "react-router-dom";

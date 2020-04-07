@@ -25,196 +25,557 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/precache-manifest.f4e1ff4b12a8b4228c73f796ccba0f72.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/01WidthHeight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.21494525.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.21494525.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.a446d85f.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.a446d85f.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.a446d85f.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.70632cfd.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.70632cfd.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.b1cc144f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.b1cc144f.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.23013f8c.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.8b055f01.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.bdeae6fb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.f63f41c6.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.4c95d0a0.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.74295694.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.84fbd76f.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.cebc8d79.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/logo.5d5d9eef.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS02Margin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS03Padding.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS04Border.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS05FormatTextdanFont.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS06Background.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS07PseudoClass.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS08BorderRadius.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS09LinearGradient.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS10BoxShadow.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS11Nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS12Aside.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS13Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS14Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS15Table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/button-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/card-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/format-text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/gradient.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/memo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/nav-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/pseudoclass.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/shadow-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/side-nav-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/table-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/01WidthHeight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/02Margin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/03Padding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/04Border.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/05FormatTextdanFont.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/05FormatTextdanFont2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/06Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/06Background2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/07PseudoClass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/07PseudoClass2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/08BorderRadius.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/08BorderRadius2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/09LinearGradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/09LinearGradient2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/10BoxShadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/10BoxShadow2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/11Nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/11Nav2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/11Nav3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/12Aside.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/12Aside2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/12Aside3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/14Button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/14Button2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/15Table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/15Table2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/15Table3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/laravel-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/Blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/about/color_grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/about/foto_sma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/clement-h-95YRwf6CNw8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/django_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/foto_1_ssiluet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/fotokuNew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/naruto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/orochimaru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/sasuke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/tobirama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/jace-afsoon-K4XHqPZq66c-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/kristopher-roller-zepnJQycr4U-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/laravel-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/loading/DSC0021.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/loading/DSC0061.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/loading/IMG_2979.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/loading/IMG_8154.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/loading/IMG_9483.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/loading/IMG_9618.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/rubyrails-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/symphony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/naruto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/orochimaru2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/sasuke2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/tobirama2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/toast.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/precache-manifest.c6ebb58dc9b99a26aca85a7fcc6434fd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/2.7ad897a5.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/2.7ad897a5.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.e82ca868.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.e82ca868.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.fb638ccc.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.fb638ccc.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.fb638ccc.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.8b7d3ceb.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.8b7d3ceb.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.54319354.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.54319354.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/01WidthHeight.d50cadf9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/02Margin.e8441cf8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/03Padding.30d9fd7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/04Border.32cb45f6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/05FormatTextdanFont.36a3a8ce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/05FormatTextdanFont2.71914b55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/06Background.5cc66f2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/06Background2.ced03da3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/07PseudoClass.7b47e461.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/07PseudoClass2.f8157923.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/08BorderRadius.25754140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/08BorderRadius2.d5d7699b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/09LinearGradient.9a47353b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/09LinearGradient2.befb14ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/10BoxShadow.222d4035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/10BoxShadow2.55e46bc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/11Nav.6d392161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/11Nav2.fdeb0936.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/12Aside.18d18295.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/12Aside2.dce94479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/12Aside3.730e95c9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/13Card.286411b9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/13Card2.81f783ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/13Card3.af452153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/14Button.aee10153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/14Button2.b3fa76a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/15Table.393f0775.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/15Table3.a518e6f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/laravel-image.f482ce8f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS01WidthHeight.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/02Margin.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/02Margin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/03Padding.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/03Padding.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/04Border.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/04Border.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/05FormatTextdanFont.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/05FormatTextdanFont.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/06Background.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/06Background.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/07PseudoClass.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/07PseudoClass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/08BorderRadius.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/08BorderRadius.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/09LinearGradient.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/09LinearGradient.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/10BoxShadow.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/10BoxShadow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/11Nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/11Nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/12Aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/12Aside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/13Card.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/13Card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/14Button.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/14Button.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/15Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/15Table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/background.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/button-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/button-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/card-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/card-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/format-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/format-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/gradient.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/gradient.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/memo.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/memo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/nav-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/nav-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/pseudoclass.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/pseudoclass.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/shadow-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/shadow-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/side-nav-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/side-nav-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/css/table-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/table-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/01WidthHeight.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/01WidthHeight.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/02Margin.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/02Margin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/03Padding.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/03Padding.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/04Border.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/04Border.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/05FormatTextdanFont.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/05FormatTextdanFont.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/05FormatTextdanFont2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/05FormatTextdanFont2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/06Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/06Background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/06Background2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/06Background2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/07PseudoClass.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/07PseudoClass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/07PseudoClass2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/07PseudoClass2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/08BorderRadius.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/08BorderRadius.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/08BorderRadius2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/08BorderRadius2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/09LinearGradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/09LinearGradient.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/09LinearGradient2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/09LinearGradient2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/10BoxShadow.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/10BoxShadow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/10BoxShadow2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/10BoxShadow2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/11Nav.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/11Nav.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/11Nav2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/11Nav2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/11Nav3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/11Nav3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/12Aside.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/12Aside.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/12Aside2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/12Aside2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/12Aside3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/12Aside3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/13Card4.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/14Button.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/14Button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/14Button2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/14Button2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/15Table.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/15Table.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/15Table2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/15Table2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/15Table3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/15Table3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/laravel-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/laravel-image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img/symphony.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/symphony.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppFooter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppMain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/AppNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/Blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/about/color_grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/about/foto_sma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/clement-h-95YRwf6CNw8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/favicon/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/fotokuNew.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/naruto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/orochimaru.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/sasuke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/full/tobirama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/jace-afsoon-K4XHqPZq66c-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/kristopher-roller-zepnJQycr4U-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/loading/DSC0021.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/loading/DSC0061.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/symphony.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/naruto2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/orochimaru2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/sasuke2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/img/thumbs/tobirama2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/alert.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/button.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/carousel.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/collapse.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/dropdown.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/modal.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/popover.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/scrollspy.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/toast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/tooltip.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/dist/util.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/tools/sanitizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/js/src/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/sass/style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/_site/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/about/color_grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/about/foto_sma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/clement-h-95YRwf6CNw8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/django_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/favicon/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/foto_1_ssiluet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/fotokuNew.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/full/naruto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/full/orochimaru.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/full/sasuke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/full/tobirama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/jace-afsoon-K4XHqPZq66c-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/kristopher-roller-zepnJQycr4U-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/laravel-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/DSC0021.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/DSC0061.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_2979.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_8154.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_9483.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/loading/IMG_9618.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/rubyrails-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/symphony.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/thumbs/naruto2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/thumbs/orochimaru2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/thumbs/sasuke2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/img/thumbs/tobirama2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/alert.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/button.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/carousel.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/collapse.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/dropdown.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/modal.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/popover.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/scrollspy.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/toast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/tooltip.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/dist/util.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/tools/sanitizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/js/src/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/sass/style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/scss/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/precache-manifest.f4e1ff4b12a8b4228c73f796ccba0f72.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/01WidthHeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/02Margin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/03Padding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/04Border.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/05FormatTextdanFont.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/06Background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/07PseudoClass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/08BorderRadius.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/09LinearGradient.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/10BoxShadow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/11Nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/12Aside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/13Card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/14Button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/15Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/background.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/button-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/card-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/format-text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/gradient.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/memo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/nav-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/pseudoclass.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/shadow-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/side-nav-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/css/table-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/01WidthHeight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/02Margin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/03Padding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/04Border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/05FormatTextdanFont.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/05FormatTextdanFont2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/06Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/06Background2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/07PseudoClass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/07PseudoClass2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/08BorderRadius.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/08BorderRadius2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/09LinearGradient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/09LinearGradient2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/10BoxShadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/10BoxShadow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/11Nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/11Nav2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/11Nav3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/12Aside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/12Aside2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/12Aside3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/13Card4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/14Button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/14Button2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/15Table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/15Table2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/15Table3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/laravel-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/DaftarIsi/img/symphony.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.21494525.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.21494525.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.a446d85f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.a446d85f.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.a446d85f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.70632cfd.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.70632cfd.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.b1cc144f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.b1cc144f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS02Margin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS02Margin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS03Padding.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS03Padding.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS04Border.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS04Border.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS05FormatTextdanFont.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS05FormatTextdanFont.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS06Background.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS06Background.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS07PseudoClass.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS07PseudoClass.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS08BorderRadius.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS08BorderRadius.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS09LinearGradient.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS09LinearGradient.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS10BoxShadow.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS10BoxShadow.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS11Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS11Nav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS12Aside.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS12Aside.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS13Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS13Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS14Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS14Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS15Table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS15Table.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/dist/js/bootstrap.min.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +604,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -281,7 +642,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -297,19 +658,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
-      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
       <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi/img" />
+      <recent name="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/public/DaftarIsi" />
     </key>
   </component>
   <component name="RunManager">
@@ -444,7 +805,12 @@
       <workItem from="1585807845795" duration="1175000" />
       <workItem from="1585825968616" duration="599000" />
       <workItem from="1585874751894" duration="5283000" />
-      <workItem from="1585886894685" duration="11486000" />
+      <workItem from="1585886894685" duration="16037000" />
+      <workItem from="1585917695648" duration="5922000" />
+      <workItem from="1585963802324" duration="7514000" />
+      <workItem from="1586087500370" duration="1666000" />
+      <workItem from="1586142498049" duration="941000" />
+      <workItem from="1586228617446" duration="11159000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -663,7 +1029,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585753694724</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Akhirnya selesai juga modul CSS nya yeah">
+      <created>1585898914571</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585898914571</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,7 +1047,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Menambahkan CSS Layouting" />
     <MESSAGE value="Melengkapi CSS Layouting" />
     <MESSAGE value="Melengkapi CSS 3" />
     <MESSAGE value="Membuat website portfolio dengan bootstrap" />
@@ -699,7 +1071,8 @@
     <MESSAGE value="Hmm bentar lagi selesai nih yang css, semangat arthur" />
     <MESSAGE value="Akhirnya selesai juga modul CSS nya" />
     <MESSAGE value="Akhirnya selesai juga modul CSS nya yeah" />
-    <option name="LAST_COMMIT_MESSAGE" value="Akhirnya selesai juga modul CSS nya yeah" />
+    <MESSAGE value="Memodifikasi beberapa konten hmm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Memodifikasi beberapa konten hmm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -735,14 +1108,18 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1585898911097">
+    <state x="304" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1586248743052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
     <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584676997688" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585898911097" />
+    <state x="304" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1586248743052" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1585918445846">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1585918445846" />
     <state x="1868" y="310" width="906" height="466" key="EditFileWatcherDialog" timestamp="1579240274215">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -801,11 +1178,11 @@
     </state>
     <state x="1366" y="0" width="1356" height="768" key="new project wizard/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578047327067" />
     <state x="0" y="27" width="1356" height="554" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1578197823713" />
-    <state x="347" y="174" key="run.anything.popup" timestamp="1585646761703">
+    <state x="347" y="174" key="run.anything.popup" timestamp="1585898990441">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1854" y="214" key="run.anything.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1578884890386" />
-    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1585646761703" />
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1585898990441" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585893667803">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

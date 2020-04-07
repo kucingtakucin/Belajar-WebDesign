@@ -6,7 +6,7 @@ import React, {Component} from 'react';
 import {NavLink, Route, Switch} from 'react-router-dom';
 import logo from './logo.svg';
 import './App.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import CSS01WidthHeight from "./components/CSS01WidthHeight";
 import CSS02Margin from "./components/CSS02Margin";
 import CSS03Padding from "./components/CSS03Padding";
@@ -133,6 +133,7 @@ class AppRouter extends Component {
     render() {
         return (
             <div>
+                {console.log(`Direktori root : ${process.env.PUBLIC_URL}`)}
                 <Switch>
                     <Route path="/" component={App} exact/>
                     <Route path="/Width-Height" component={CSS01WidthHeight}/>

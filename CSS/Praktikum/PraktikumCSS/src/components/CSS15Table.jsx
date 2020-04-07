@@ -4,8 +4,7 @@
 
 import React, {Component} from 'react';
 import '../App.css';
-import './css/nav-style.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/15Table.png';
 import gambar2 from './img/15Table2.png';
 import gambar3 from './img/15Table3.png';

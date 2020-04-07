@@ -4,8 +4,7 @@
 
 import React, {Component} from 'react';
 import '../App.css';
-import './css/nav-style.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/13Card.png';
 import gambar2 from './img/13Card2.png';
 import gambar3 from './img/13Card3.png';
@@ -43,8 +42,8 @@ class CSS13Card extends Component {
                                     </p>
                                 </div>
                                 <div className="card-footer">
-                                    <a href="#" className="btn btn-lg btn-success float-left clearfix">BUKA</a>
-                                    <a href="#" className="btn btn-lg btn-danger float-right clearfix">HAPUS</a>
+                                    <NavLink to="#" className="btn btn-lg btn-success float-left clearfix">BUKA</NavLink>
+                                    <NavLink to="#" className="btn btn-lg btn-danger float-right clearfix">HAPUS</NavLink>
                                 </div>
                             </div>
                         </div>

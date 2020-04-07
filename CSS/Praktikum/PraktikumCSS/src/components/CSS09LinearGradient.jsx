@@ -5,7 +5,7 @@
 import React, {Component} from 'react';
 import '../App.css';
 import './css/gradient.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/09LinearGradient.png';
 import gambar2 from './img/09LinearGradient2.png';
 import {NavLink} from "react-router-dom";

@@ -5,7 +5,7 @@
 import React, {Component} from 'react';
 import '../App.css';
 import './css/pseudoclass.css';
-import './dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import gambar from './img/07PseudoClass.png';
 import gambar2 from './img/07PseudoClass2.png';
 import {NavLink} from "react-router-dom";
@@ -23,10 +23,10 @@ class CSS07PseudoClass extends Component {
                     <main>
                         <div className="links">
                             <ul>
-                                <li><a href="#">a:link</a></li>
-                                <li><a href="#">a:hover</a></li>
-                                <li><a href="#">a:active</a></li>
-                                <li><a href="#">a:visited</a></li>
+                                <li><NavLink to="#">a:link</NavLink></li>
+                                <li><NavLink to="#">a:hover</NavLink></li>
+                                <li><NavLink to="#">a:active</NavLink></li>
+                                <li><NavLink to="#">a:visited</NavLink></li>
                             </ul>
                         </div>
                         <img className="img-thumbnail" src={gambar} alt="PseudoClass" />
