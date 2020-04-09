@@ -22,24 +22,57 @@ class CSS11Nav extends Component {
                 </header>
                 <div className="container">
                     <main>
-                        <nav className="nav">
-                            <div className="title">
-                                <NavLink to="#">OneNav</NavLink>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Pendahuluan</h1>
+                                <h3 className="card-subtitle text-center">Apa itu Nav?</h3>
                             </div>
-                            <ul>
-                                <li><NavLink to="#" className="active">Home</NavLink></li>
-                                <li><NavLink to="#">Portfolio</NavLink></li>
-                                <li><NavLink to="#">About</NavLink></li>
-                                <li><NavLink to="#">Contact</NavLink></li>
-                            </ul>
-                        </nav>
-                        <img className="img-thumbnail" src={gambar} alt="Nav"/>
-                        <img className="img-thumbnail" src={gambar2} alt="Nav"/>
-                        <img className="img-thumbnail" src={gambar3} alt="Nav"/>
+                            <div className="card-body">
+                                Nav biasa digunakan sebagai navigasi untuk link-link HTML, biasanya terletak dibagian atas
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Source Code HTML</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah code HTML nya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <img className="img-thumbnail" src={gambar} alt="Nav" />
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Source Code CSS</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah code CSS nya</h3>
+                            </div>
+                            <div className="card-body row">
+                                <img className="img-thumbnail" src={gambar2} alt="Nav" />
+                                <img className="img-thumbnail" src={gambar3} alt="Nav" />
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Hasil</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah hasilnya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <nav className="navigasi">
+                                    <div className="title">
+                                        <NavLink to="#">OneNav</NavLink>
+                                    </div>
+                                    <ul>
+                                        <li><NavLink to="#" className="active">Home</NavLink></li>
+                                        <li><NavLink to="#">Portfolio</NavLink></li>
+                                        <li><NavLink to="#">About</NavLink></li>
+                                        <li><NavLink to="#">Contact</NavLink></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div className="card-footer border-secondary">
+                                <NavLink className="btn btn-lg btn-secondary" to="/">Kembali</NavLink>
+                            </div>
+                        </div>
                     </main>
-                    <footer>
-                        <NavLink to="/" className="btn btn-lg btn-secondary">Kembali</NavLink>
-                    </footer>
                 </div>
             </div>
         )

@@ -2,13 +2,10 @@
  * Copyright (c) 2020. Adam Arthur Faizal.
  */
 
-#box {
+.css02 #box {
     width: 200px;
     height: 200px;
-    background-color: #000fff;
+    background: #000fff;
     color: #fff;
-}
-
-img, .btn {
-    margin: 20px auto;
+    margin: 20px 10px;
 }

@@ -22,6 +22,7 @@ import CSS12Aside from "./components/CSS12Aside";
 import CSS13Card from "./components/CSS13Card";
 import CSS14Button from "./components/CSS14Button";
 import CSS15Table from "./components/CSS15Table";
+import ScrollIntoView from "./components/ScrollIntoView";
 
 class App extends Component{
     render() {
@@ -133,25 +134,26 @@ class AppRouter extends Component {
     render() {
         return (
             <div>
-                {console.log(`Direktori root : ${process.env.PUBLIC_URL}`)}
-                <Switch>
-                    <Route path="/" component={App} exact/>
-                    <Route path="/Width-Height" component={CSS01WidthHeight}/>
-                    <Route path="/Margin" component={CSS02Margin} />
-                    <Route path="/Padding" component={CSS03Padding} />
-                    <Route path="/Border" component={CSS04Border} />
-                    <Route path="/FormatText-Font" component={CSS05FormatTextdanFont} />
-                    <Route path="/Background" component={CSS06Background} />
-                    <Route path="/Pseudo-Class" component={CSS07PseudoClass} />
-                    <Route path="/Border-Radius" component={CSS08BorderRadius} />
-                    <Route path="/Linear-Gradient" component={CSS09LinearGradient} />
-                    <Route path="/Box-Shadow" component={CSS10BoxShadow} />
-                    <Route path="/Nav" component={CSS11Nav} />
-                    <Route path="/Aside" component={CSS12Aside} />
-                    <Route path="/Card" component={CSS13Card} />
-                    <Route path="/Button" component={CSS14Button} />
-                    <Route path="/Table" component={CSS15Table} />
-                </Switch>
+                <ScrollIntoView>
+                    <Switch>
+                        <Route path="/" component={App} exact/>
+                        <Route path="/Width-Height" component={CSS01WidthHeight}/>
+                        <Route path="/Margin" component={CSS02Margin} />
+                        <Route path="/Padding" component={CSS03Padding} />
+                        <Route path="/Border" component={CSS04Border} />
+                        <Route path="/FormatText-Font" component={CSS05FormatTextdanFont} />
+                        <Route path="/Background" component={CSS06Background} />
+                        <Route path="/Pseudo-Class" component={CSS07PseudoClass} />
+                        <Route path="/Border-Radius" component={CSS08BorderRadius} />
+                        <Route path="/Linear-Gradient" component={CSS09LinearGradient} />
+                        <Route path="/Box-Shadow" component={CSS10BoxShadow} />
+                        <Route path="/Nav" component={CSS11Nav} />
+                        <Route path="/Aside" component={CSS12Aside} />
+                        <Route path="/Card" component={CSS13Card} />
+                        <Route path="/Button" component={CSS14Button} />
+                        <Route path="/Table" component={CSS15Table} />
+                    </Switch>
+                </ScrollIntoView>
             </div>
         )
     }

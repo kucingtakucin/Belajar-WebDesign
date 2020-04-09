@@ -2,13 +2,8 @@
  * Copyright (c) 2020. Adam Arthur Faizal.
  */
 
-* {
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-}
 
-.card {
+.css10 .kartu {
     width: 30%;
     height: auto;
     margin: 20px 0 0 20px;
@@ -18,13 +13,13 @@
     float: left;
 }
 
-.card .card-title {
+.css10 .kartu .kartu-title {
     font-size: 30px;
     font-weight: normal;
     color: #ff6d00;
 }
 
-.card .card-content {
+.css10 .kartu .kartu-content {
     padding: 15px;
     font-size: 14px;
     line-height: 1.6;

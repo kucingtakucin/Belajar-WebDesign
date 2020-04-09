@@ -21,24 +21,57 @@ class CSS05FormatTextdanFont extends Component {
                 </header>
                 <div className="container">
                     <main>
-                        <div className="text-styling">
-                            <h2>Sebuah Judul</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, molestiae sequi? Dicta
-                                dolore incidunt laborum maiores provident. Adipisci, consequuntur cum doloribus ex fuga
-                                illum incidunt laborum nesciunt quis sint. Animi, cum dignissimos ea minus natus,
-                                necessitatibus nemo nisi, placeat praesentium quidem reprehenderit tempora ut veritatis
-                                voluptate voluptatibus. Accusamus accusantium alias aliquam amet corporis culpa cumque
-                                delectus earum eius et exercitationem hic illum inventore, iste laborum mollitia nulla
-                                numquam quasi quidem repellendus, sit suscipit tempore ut, veniam vitae voluptas
-                                voluptatem. Ad aliquid aspernatur, commodi, cum cumque eveniet facere facilis maiores
-                                neque optio placeat porro quisquam quo tempore vel. Ad, aspernatur id?</p>
-                            <img className="img-thumbnail" src={gambar} alt="FormatText & Font"/>
-                            <img className="img-thumbnail" src={gambar2} alt="FormatText & Font"/>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Pendahuluan</h1>
+                                <h3 className="card-subtitle text-center">Apa itu Text & Font?</h3>
+                            </div>
+                            <div className="card-body">
+                                Property ini digunakan untuk melakukan format pada text dan font
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Source Code HTML</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah code HTML nya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <img className="img-thumbnail" src={gambar} alt="FormatText & Font"/>
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Source Code CSS</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah code CSS nya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <img className="img-thumbnail" src={gambar2} alt="FormatText & Font"/>
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Hasil</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah hasilnya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <div className="text-styling">
+                                    <h2>Sebuah Judul</h2>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, molestiae sequi? Dicta
+                                        dolore incidunt laborum maiores provident. Adipisci, consequuntur cum doloribus ex fuga
+                                        illum incidunt laborum nesciunt quis sint. Animi, cum dignissimos ea minus natus,
+                                        necessitatibus nemo nisi, placeat praesentium quidem reprehenderit tempora ut veritatis
+                                        voluptate voluptatibus. Accusamus accusantium alias aliquam amet corporis culpa cumque
+                                        delectus earum eius et exercitationem hic illum inventore, iste laborum mollitia nulla
+                                        numquam quasi quidem repellendus, sit suscipit tempore ut, veniam vitae voluptas
+                                        voluptatem. Ad aliquid aspernatur, commodi, cum cumque eveniet facere facilis maiores
+                                        neque optio placeat porro quisquam quo tempore vel. Ad, aspernatur id?</p>
+                                </div>
+                            </div>
+                            <div className="card-footer border-secondary">
+                                <NavLink className="btn btn-lg btn-secondary" to="/">Kembali</NavLink>
+                            </div>
                         </div>
                     </main>
-                    <footer>
-                        <NavLink to="/" className="btn btn-lg btn-secondary">Kembali</NavLink>
-                    </footer>
                 </div>
             </div>
         )

@@ -1,39 +1,31 @@
 /*
  * Copyright (c) 2020. Adam Arthur Faizal.
  */
-* {
-    margin: 0;
-    padding: 0;
-}
 
-.link ul {
+.css07 .links ul {
     width: 200px;
     background: #eee;
     list-style: none;
 }
 
-.link ul li {
+.css07 .links ul li {
     width: 200px;
     background: #20b2aa;
     padding: 5px;
 }
 
-.link ul li a:active {
+.css07 .links ul li a:active {
     background: red;
 }
 
-.link ul li a:visited {
+.css07 .links ul li a:visited {
     background: green;
 }
 
-.link ul li a:hover {
+.css07 .links ul li a:hover {
     background: blue;
 }
 
-.link ul li a:link{
+.css07 .links ul li a:link{
     background: pink;
-}
-
-img, .btn{
-    margin: 20px auto;
 }

@@ -21,18 +21,50 @@ class CSS09LinearGradient extends Component {
                 </header>
                 <div className="container">
                     <main>
-                        <div className="tombol">
-                            <button className="btn btn-lg btn-primary">Ini adalah button 1</button>
-                            <button className="button ">Ini adalah button 2</button>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Pendahuluan</h1>
+                                <h3 className="card-subtitle text-center">Apa itu Linear-Gradient?</h3>
+                            </div>
+                            <div className="card-body">
+                                Merupakan property untuk memberi background dengan warna gradient atau bergradasi.
+                                Dalam hal ini, terdapat 2 jenis gradient yaitu : linear dan radial.
+                            </div>
                         </div>
-                        <div className="gambar clearfix">
-                            <img className="img-thumbnail" src={gambar} alt="Linear Gradient" />
-                            <img className="img-thumbnail" src={gambar2} alt="Linear Gradinet" />
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Source Code HTML</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah code HTML nya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <img className="img-thumbnail" src={gambar} alt="LinearGradient" />
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Source Code CSS</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah code CSS nya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <img className="img-thumbnail" src={gambar2} alt="LinearGradient" />
+                            </div>
+                        </div>
+                        <div className="card mb-3 border-secondary">
+                            <div className="card-header text-secondary border-secondary">
+                                <h1 className="card-title text-center font-weight-bold">Hasil</h1>
+                                <h3 className="card-subtitle text-center">Ini adalah hasilnya</h3>
+                            </div>
+                            <div className="card-body d-xl-flex justify-content-center">
+                                <div className="tombol">
+                                    <button className="btn btn-lg btn-primary">Ini adalah button 1</button>
+                                    <button className="button ">Ini adalah button 2</button>
+                                </div>
+                            </div>
+                            <div className="card-footer border-secondary">
+                                <NavLink className="btn btn-lg btn-secondary" to="/">Kembali</NavLink>
+                            </div>
                         </div>
                     </main>
-                    <footer>
-                        <NavLink to="/" className="btn btn-lg btn-secondary">Kembali</NavLink>
-                    </footer>
                 </div>
             </div>
         )

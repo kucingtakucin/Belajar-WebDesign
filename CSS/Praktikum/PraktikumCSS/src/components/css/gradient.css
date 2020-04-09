@@ -1,15 +1,8 @@
 /*
  * Copyright (c) 2020. Adam Arthur Faizal.
  */
-
-* {
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-}
-
-.button {
-    margin: 20px 0 0 20px;
+.css09 .tombol .button {
+    margin-right: 50px;
     padding: 12px 20px;
     background: linear-gradient(#03a9f4, #01579b);
     background: -moz-linear-gradient(#03a9f4, #01579b);
@@ -21,8 +14,4 @@
     font-weight: 600;
     text-transform: uppercase;
     border: none;
-}
-
-img, .btn {
-    margin: 20px auto;
 }

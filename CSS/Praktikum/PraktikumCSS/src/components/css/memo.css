@@ -2,9 +2,9 @@
  * Copyright (c) 2020. Adam Arthur Faizal.
  */
 
-.circle {
-    width: 40px;
-    height: 40px;
+.css08 .circle {
+    width: 80px;
+    height: 80px;
     margin: 10px 5px;
     background: #20b2aa;
     border: solid thin transparent;
@@ -14,19 +14,12 @@
     float: left;
     color: #fff;
     text-align: center;
+    line-height: 80px
 }
 
-.circle p {
-    margin-top: 10px;
-}
-
-.circle:hover {
+.css08 .circle:hover {
     background: #fff;
     color: #20b2aa;
     border: solid thin #20b2aa;
     cursor: pointer;
-}
-
-img, .btn {
-    margin: 20px auto;
 }
