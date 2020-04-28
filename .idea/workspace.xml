@@ -25,258 +25,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68a9da7-c800-4b89-a9b4-f899ae307cb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/Blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/clement-h-95YRwf6CNw8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/django_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/favicon/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/fotokuNew.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/jace-afsoon-K4XHqPZq66c-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/kristopher-roller-zepnJQycr4U-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/rubyrails-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/component/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/component/Contact.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/component/Portfolio.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/component/ScrollIntoView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/Cuprum-Regular-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/Cuprum-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/Cuprum-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/Cuprum-Regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/Cuprum-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/specimen_files/Cuprum-Regular-cleartype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/Cuprum/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/How_to_use_webfonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/indie-flower-fontfacekit.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/precache-manifest.8c883cd96931521c66c457374aa9b411.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/css/main.78c9e7d3.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/css/main.78c9e7d3.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/2.917593dc.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/2.917593dc.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/2.917593dc.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/main.e5ae0c1e.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/main.e5ae0c1e.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/symphony.fcb1692c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS01WidthHeight.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS02Margin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS03Padding.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS04Border.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS05FormatTextdanFont.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS06Background.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS07PseudoClass.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS08BorderRadius.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS09LinearGradient.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS10BoxShadow.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS11Nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS12Aside.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS13Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS14Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/CSS15Table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/laravel-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/symphony.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/Blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/about/color_grid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/clement-h-95YRwf6CNw8-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/django_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/favicon/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/foto_1_ssiluet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/fotokuNew.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/naruto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/orochimaru.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/sasuke.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/full/tobirama.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/jace-afsoon-K4XHqPZq66c-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/kristopher-roller-zepnJQycr4U-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/laravel-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/lycs-architecture-U2BI3GMnSSE-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/rubyrails-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/symphony.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/orochimaru2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/sasuke2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/img/thumbs/tobirama2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/component/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/component/Contact.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio1/react-app/src/sass/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/precache-manifest.c6ebb58dc9b99a26aca85a7fcc6434fd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/2.7ad897a5.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/css/2.7ad897a5.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/2.7ad897a5.chunk.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/css/2.7ad897a5.chunk.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.e82ca868.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/css/main.e82ca868.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.fb638ccc.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.fb638ccc.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/2.fb638ccc.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.8b7d3ceb.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/main.8b7d3ceb.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.54319354.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/runtime-main.54319354.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/js/runtime-main.54319354.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/js/runtime-main.54319354.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/01WidthHeight.d50cadf9.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/01WidthHeight.d50cadf9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/02Margin.e8441cf8.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/02Margin.e8441cf8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/03Padding.30d9fd7d.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/03Padding.30d9fd7d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/04Border.32cb45f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/04Border.32cb45f6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/05FormatTextdanFont.36a3a8ce.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/05FormatTextdanFont.36a3a8ce.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/05FormatTextdanFont2.71914b55.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/05FormatTextdanFont2.71914b55.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/06Background.5cc66f2c.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/06Background.5cc66f2c.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/06Background2.ced03da3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/06Background2.ced03da3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/07PseudoClass.7b47e461.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/07PseudoClass.7b47e461.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/07PseudoClass2.f8157923.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/07PseudoClass2.f8157923.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/08BorderRadius.25754140.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/08BorderRadius.25754140.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/08BorderRadius2.d5d7699b.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/08BorderRadius2.d5d7699b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/09LinearGradient.9a47353b.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/09LinearGradient.9a47353b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/09LinearGradient2.befb14ab.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/09LinearGradient2.befb14ab.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/10BoxShadow.222d4035.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/10BoxShadow.222d4035.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/10BoxShadow2.55e46bc9.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/10BoxShadow2.55e46bc9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/11Nav.6d392161.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/11Nav.6d392161.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/11Nav2.fdeb0936.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/11Nav2.fdeb0936.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/12Aside.18d18295.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/12Aside.18d18295.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/12Aside2.dce94479.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/12Aside2.dce94479.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/12Aside3.730e95c9.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/12Aside3.730e95c9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/13Card.286411b9.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/13Card.286411b9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/13Card2.81f783ed.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/13Card2.81f783ed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/13Card3.af452153.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/13Card3.af452153.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/14Button.aee10153.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/14Button.aee10153.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/14Button2.b3fa76a7.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/14Button2.b3fa76a7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/15Table.393f0775.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/15Table.393f0775.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/15Table3.a518e6f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/15Table3.a518e6f4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.23013f8c.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/Cuprum-Regular-webfont.23013f8c.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.8b055f01.woff" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/Cuprum-Regular-webfont.8b055f01.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.bdeae6fb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/Cuprum-Regular-webfont.bdeae6fb.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/Cuprum-Regular-webfont.f63f41c6.eot" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/Cuprum-Regular-webfont.f63f41c6.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.4c95d0a0.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/IndieFlower-webfont.4c95d0a0.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.74295694.woff" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/IndieFlower-webfont.74295694.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.84fbd76f.eot" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/IndieFlower-webfont.84fbd76f.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/IndieFlower-webfont.cebc8d79.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/IndieFlower-webfont.cebc8d79.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/laravel-image.f482ce8f.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/laravel-image.f482ce8f.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/build/static/media/logo.5d5d9eef.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/build/static/media/logo.5d5d9eef.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS01WidthHeight.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS02Margin.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS03Padding.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS04Border.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS05FormatTextdanFont.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS06Background.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS07PseudoClass.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS08BorderRadius.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS09LinearGradient.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS10BoxShadow.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS11Nav.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS12Aside.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS13Card.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS14Button.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/CSS15Table.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/ScrollIntoView.js" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/ScrollIntoView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/background.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/border.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/button-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/button-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/card-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/card-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/format-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/format-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/gradient.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/gradient.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/margin.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/margin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/memo.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/memo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/nav-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/nav-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/padding.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/padding.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/pseudoclass.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/pseudoclass.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/shadow-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/shadow-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/side-nav-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/side-nav-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/table-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/table-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/css/widthHeight.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/css/widthHeight.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/01WidthHeight.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/01WidthHeight.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/02Margin.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/02Margin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/03Padding.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/03Padding.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/04Border.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/04Border.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/05FormatTextdanFont.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/05FormatTextdanFont.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/05FormatTextdanFont2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/05FormatTextdanFont2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/06Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/06Background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/06Background2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/06Background2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/07PseudoClass.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/07PseudoClass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/07PseudoClass2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/07PseudoClass2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/08BorderRadius.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/08BorderRadius.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/08BorderRadius2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/08BorderRadius2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/09LinearGradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/09LinearGradient.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/09LinearGradient2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/09LinearGradient2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/10BoxShadow.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/10BoxShadow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/10BoxShadow2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/10BoxShadow2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/11Nav.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/11Nav.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/11Nav2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/11Nav2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/11Nav3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/11Nav3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/12Aside.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/12Aside.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/12Aside2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/12Aside2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/12Aside3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/12Aside3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/13Card.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/13Card2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/13Card3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/13Card4.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/13Card4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/14Button.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/14Button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/14Button2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/14Button2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/15Table.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/15Table.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/15Table2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/15Table2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/15Table3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/components/img/15Table3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/laravel-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/laravel-image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/components/img/symphony.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Mandiri/WebPortofolio0/symphony.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/Cuprum-Regular-demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/Cuprum-Regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/Cuprum-Regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/Cuprum-Regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/Cuprum-Regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/Cuprum-Regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/specimen_files/Cuprum-Regular-cleartype.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/specimen_files/Cuprum-Regular-cleartype.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/specimen_files/grid_12-825-55-15.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/specimen_files/specimen_stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/Cuprum/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/Cuprum/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/How_to_use_webfonts.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/How_to_use_webfonts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/SIL Open Font License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/SIL Open Font License.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/indie-flower-fontfacekit.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/indie-flower-fontfacekit.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/grid_12-825-55-15.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/specimen_stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Praktikum/PraktikumCSS/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Praktikum/Laporan-Web-Design2/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -498,7 +253,12 @@
       <workItem from="1586401033330" duration="26415000" />
       <workItem from="1586436600690" duration="8638000" />
       <workItem from="1586483351702" duration="18426000" />
-      <workItem from="1586569284127" duration="14443000" />
+      <workItem from="1586569284127" duration="15848000" />
+      <workItem from="1586700752579" duration="1721000" />
+      <workItem from="1586749080216" duration="4281000" />
+      <workItem from="1586773380652" duration="129000" />
+      <workItem from="1586837124727" duration="1925000" />
+      <workItem from="1586849442320" duration="6453000" />
     </task>
     <task id="LOCAL-00001" summary="Menyelesaikan materi HTML">
       <created>1578194283619</created>
@@ -738,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586417403291</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Membuat ulang web portfolio dengan react js">
+      <created>1586586097838</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1586586097840</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +516,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Melengkapi CSS 3" />
     <MESSAGE value="Membuat website portfolio dengan bootstrap" />
     <MESSAGE value="Menambahkan modul pertemuan 1 dari pak fendi" />
     <MESSAGE value="Mengubah nama laporan.html menjadi index.html" />
@@ -774,7 +540,8 @@
     <MESSAGE value="Akhirnya selesai juga modul CSS nya yeah" />
     <MESSAGE value="Memodifikasi beberapa konten hmm" />
     <MESSAGE value="Memperbarui laporan css wkwk, disuruh pak fendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Memperbarui laporan css wkwk, disuruh pak fendi" />
+    <MESSAGE value="Membuat ulang web portfolio dengan react js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Membuat ulang web portfolio dengan react js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1921" y="200" width="810" height="704" key="#CSS" timestamp="1579248966106">
@@ -814,13 +581,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="232" width="525" height="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579774089859" />
-    <state x="304" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1586417401822">
+    <state x="304" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1586586093806">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578053706278" />
     <state x="287" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868353126" />
     <state x="1366" y="0" width="864" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584676997688" />
-    <state x="304" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1586417401822" />
+    <state x="304" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1586586093806" />
     <state x="0" y="27" width="1366" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1578272982575" />
     <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1585918445846">
       <screen x="0" y="27" width="1366" height="741" />
